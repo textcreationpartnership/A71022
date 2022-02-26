@@ -1,0 +1,2867 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some notes or heads of a preface and of a lecture Preached at Distinckorn--Hill, in the parish of Gaastoun. April 15. 1688. By master Alexander Shields preacher of the gospel.</title>
+            <author>Shields, Alexander, 1660?-1700.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 88 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A71022</idno>
+            <idno type="STC">Wing S3435B</idno>
+            <idno type="STC">ESTC R184108</idno>
+            <idno type="EEBO-CITATION">99831687</idno>
+            <idno type="PROQUEST">99831687</idno>
+            <idno type="VID">36152</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A71022)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36152)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2097:20; 2217:07)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some notes or heads of a preface and of a lecture Preached at Distinckorn--Hill, in the parish of Gaastoun. April 15. 1688. By master Alexander Shields preacher of the gospel.</title>
+                  <author>Shields, Alexander, 1660?-1700.</author>
+               </titleStmt>
+               <extent>23, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh? :</pubPlace>
+                  <date>1688?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication conjectured by cataloger; date of publication suggested by title.</note>
+                  <note>In another edition the lecture date precedes the title.</note>
+                  <note>Lmh Copy tightly bound.</note>
+                  <note>L Copy closely trimmed with some loss of print; some pages have considerable print fade.</note>
+                  <note>Reproduction of the original in the British Library (reel 2097) and the Congregational Library, London (reel 2217).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Renwick, James, 1662-1688 --  Early works to 1800.</term>
+               <term>Covenanters --  Apologetic works --  Scotland --  Early works to 1800.</term>
+               <term>Martyrdom --  Early works to 1800.</term>
+               <term>Covenant theology --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-03</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:36152:1"/>
+            <pb facs="tcp:36152:1" rendition="simple:additions"/>
+            <p>SOME
+NOTES OR HEADS
+OF A
+PREFACE
+AND OF A
+LECTURE.</p>
+            <p>PREACHED AT
+DISTINCKORN-HILL:</p>
+            <p>IN THE
+PARISH
+OF
+<hi>GAASTO<g ref="char:V">Ʋ</g>N,
+April</hi> 25 1688.</p>
+            <p>By Maſter <hi>Alexander Shields</hi> Preacher of the Goſpel.</p>
+            <p>
+               <hi>Pſalm,</hi> 
+               <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Samuel</hi> 
+               <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. Cha<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:punc">▪</g> from the <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Verſe to the <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="2" facs="tcp:36152:2"/>
+            <head>
+               <date>April 25, 1688.</date>
+Some Notes or Heads of a PREFACE Preached at Distinckor<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+Hill, in the Pariſh of Gaaſtoun, by Mr. Alexander Shields, Preacher of the Goſpel.</head>
+            <head type="sub">The 79 Pſalm being Sung.</head>
+            <p>ALL our Songs this Day may be Sad Lamentation, for if we underſtood
+the Place where we are: It is, <hi>by the Rivers of Babylon,</hi> and we
+<hi>ought to hang our Harps on the Willows,</hi> and our Songs ought to be <hi>Songs
+of Mourning,</hi> and our Voice <hi>the Voice of Weeping.</hi> And this is a very perti<g ref="char:EOLhyphen"/>nent
+Song of Lamentation which we have bee<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſinging <hi>(Pſalm</hi> 79.) and very
+appoſtle and proper for the Caſe of our Day, <hi>when the Heathens have entred
+into onr Sanctuary, and laid</hi> Jeruſalem <hi>on Heaps; and the Gentiles are treading
+down our outer Courts</hi> And this will always hold true, ſo long as bloody <hi>Papiſts</hi>
+do ſo much prevail, and the Blood of the Lord's Servants (that aim at Faithful<g ref="char:EOLhyphen"/>neſs
+and contends for GOD) <hi>is ſhed like water, and runs down like a River
+about our</hi> Jeruſalem<g ref="char:punc">▪</g> 
+               <hi>We are become a Reproach to our Neighbours, and made
+a corn and a Deriſion to them that are round about us.</hi> And this may be mat<g ref="char:EOLhyphen"/>ter
+of Lamentation to us, but if it were only ſo with us, the matter were
+<gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. But not only we are made a Reproach and a Deriſion, but the Word
+of GOD, and the Cauſe of CHRIST, and the Covenanted Work of Refor<g ref="char:EOLhyphen"/>mation
+is Reproached, and made a <hi>Lud<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>brium</hi> and a Laughing ſtock to the
+Heathen round about us: To <hi>Papiſts, Atheiſts, Prelats</hi> and <hi>Malignants,</hi> and
+Enemies one all hands. And when we look on the cruelty of <hi>Papiſts</hi> and <hi>Ma<g ref="char:EOLhyphen"/>lignants,</hi>
+and upon our daſtardly Yeildings, our fooliſh Yeildings: Turn
+which way we will, look before us, look behind us, look on every hand, we
+ſee matter of ſad Lamentation, and lad Significations of the Lord's Diſplea<g ref="char:EOLhyphen"/>sure
+againſt us: And this we muſt make mention and take notice of when
+we come before His Preſence, Who is this day, not only a Holy GOD, but
+an Angry GGD, who is ſh<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wing His Wra<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h in Characters of Blood. Ye may
+Remember the laſt time I was in this Country, we did hear a very ſad Sub<g ref="char:EOLhyphen"/>j<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct
+ſuitable to Reflect upon. Which was, <hi>our ſears did then come upon us,
+and are come upon us ſince.</hi> I had News to tell you then, and if a right uſe
+hath not been made thereof, they will be ſadder, and ſadder ſtill. We ſay<g ref="char:punc">▪</g> 
+               <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="3" facs="tcp:36152:2"/>
+               <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> have not been affected rightly, and concerned with them, but have been
+<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ghting and not taking it to heart, they will be ſadder ſtill: Then we were
+Alarmed with the ſad and ſudden ſurpriſing Report of the Apprehending and
+taking of two Faithful Servants of JESUS CHRIST who were contending
+for the Prerogatives of the Prince of the Kings of the Earth, and the Con<g ref="char:EOLhyphen"/>cerns
+of all the Churches, and the <hi>Depoſitum</hi> of the Church of <hi>Scotland,</hi> who
+were let fall into the Enemies hands, and given up into the Holy all-over<g ref="char:EOLhyphen"/>ruling
+Providence of GOD, to the Power of their murdering Enemies, <hi>One
+thereof his Blood has been ſhed like Water ſince,</hi> which make this Song that we
+have been ſinging very pertinent, and which may make all our Songs, <hi>Songs
+of Mourning.</hi> For his Blood hath a crying Language, and I fear that many
+hath forgotten it, that ſeemed to be affected with it then, and many is even
+deſpiſing it. But I ſay that the Blood of that Faithful Servant of JESUS
+CHRIST, Mr. <hi>James Renwick,</hi> hath a Cry to the H<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>avens againſt this Gene<g ref="char:EOLhyphen"/>ration.
+And we ſhall ſhew ſome things that is the Language of it: For we
+ought not to forge<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it, <hi>for it is precious in the <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ight of GOD,</hi> and it ought to
+to be ſo in our <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ight alſo: For if we forget it, it will Cry againſt us as well
+as others; we o<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ght to enquire into the Language of ſuch a Diſpenſation,
+for it hath a very loud Cry to op<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n Ears, and w<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>akened Conſciences. And</p>
+            <p>Firſt, It crys to us, That <hi>there is a dreadful day comingon this Generation,
+when the Godly man periſheth, and when the Righteous and Merciful Men are
+taken away;</hi> it is always an Inſallible Symptom of Wra<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h to come, <hi>Iſa.</hi> 57.
+1. We have all the Symp<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oms of approaching Wrath, that ever a Genera<g ref="char:EOLhyphen"/>tion
+had, for there are many Righteous Men taken away by bloody Violent
+Men, who we<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Righteous in th<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ir ſtate, Righteous in their courſe, and
+Righteous in their Cauſe: Many alſo merciful Men are taken away merci<g ref="char:EOLhyphen"/>ful
+Men who would <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ain have had the Generation brought off from the evils
+of the Generation, and did ſpend their time and ſtrength for them that did
+not pity themſelves, thoſe were merciful Men; and it's ſo much the more
+a Symptom of Wrath, that thoſe Tokens are not taken notice of, but are
+deſpiſed and made light of, and this does ſpeak out a ſurp<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſing ſtroak, and
+the near approach of it, <hi>when People are crying Peace, then behold ſudden de<g ref="char:EOLhyphen"/>ſtruction,</hi>
+according 1 Theſſ. 5. 3. And are not the generality crying peace
+and ſafety, and what may we expect, but <hi>ſudden Deſtruction!</hi> For, O! it's
+an unhappy Peace, unhappy it's nature, and unhappy in it's effects; For
+it's peace with the Enemies of God; yea, we have all the procu<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing cauſes
+that ever brought down the Wrath of God on any Generation.</p>
+            <p>
+               <hi>2dly.</hi> I'll tell you what the blood of that Martyr crys, and it is this, that
+<pb n="4" facs="tcp:36152:3"/>
+there is not only Wrath and Anger, impendent and hanging over our heads,
+but it is alſo incumbent and lying on us already, and that his anger is not
+turned away but his hand is ſtretched out ſtill, and it is even againſt us in
+particular, who are the perſecuted party; and this calls us to ſearch and
+try our ways, that we may know <hi>what it is that the Lord contends with us
+for:</hi> And indeed we may find in a very ſlight and overly ſearch and enqui<g ref="char:EOLhyphen"/>ry,
+many procuring cauſes of it on our part, O it ſays, <hi>we have ſlighted
+many Warnings</hi> The Lord hath been ſending his Servants, riſing up <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aily,
+and ſending them, and many of them have ſpent their blood, and for the
+moſt part, it ſeems to have been in vain as to us, he hath ſent one ſtill af<g ref="char:EOLhyphen"/>ter
+another, but we d<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d not receive th<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ir Meſſage as we ſhould hav<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> d<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne,
+and we may fear, that he will ceaſe to contend any more with us, but will
+ſay to us, they are joined to their Idols, let them alone. For many to this
+day have diſcove<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed a grea<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> deal of their incorrigibl<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>neſs, <hi>as the Lord before
+the Flood gave Warning to the Old World by the Preaching of</hi> N<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ah; <hi>He ſet a
+day to their Repentance (One Hundred and Twenty Years) and after that they
+ſhould get no more time to repent:</hi> It c<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s to this at leng<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h, that he ſays, <hi>I
+will no more ſtrive with them, I'll ſay no more to them</hi> let them not away in
+their iniquities; and it ſeems to ſay this, that the Lord hath ſet a Day
+to <hi>Scotland's</hi> R<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pentance and I <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it be <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> than many are looking for:
+The Lord is even ſaying, <hi>They ſhall have that time and no longe<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>!</hi> H<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hath
+ſuffered long, but now he is w<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed with Repenting: The<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>fore the t<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me is
+coming that he will ſay to <hi>Scotland</hi> as he ſaid to theſe in the 15 of <hi>Jer.</hi> 1,
+and 2 Verſes, <hi>ſuch as are for Death to Death, and ſuch as are for the Sword
+to the Sword; and ſuch as are for the Famine to the Famine, and ſuch as are
+for the Captivity to the Captivity, and theſe that are for Maſſacres to M<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſacres
+and theſe that are for Martyrdom to Martyrdom.</hi> But <hi>I</hi> fear there ſhall be
+but few that ſhall be honoured with Marty<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dom, O! It ſays, <hi>We have un<g ref="char:EOLhyphen"/>dervalued
+his Meſſage and M<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſenger, and the Lord would not always let him be
+contemned, but he hath been provoked to take away Meſſage and Meſſenger, and
+altogether.</hi>
+            </p>
+            <p>Thirdly, As it C<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yes for Vengeance againſt all theſe that have had any
+Acceſſion to the ſhedding of it di<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ctly or indirectly: So i<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hath another Cry
+and they are D<gap reason="illegible" resp="#TECH" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> and D<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ad that w<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll not take notice of it, and <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it.
+And it's this, <hi>That thoſe who are now ſpeaking ſo fair to this Generation,
+they have Murder in their hearts:</hi> And it proclaims th<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Cruel<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y of Bloody
+<hi>Pap<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sts</hi> who had <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he chiefeſt hand in it. And that tho many be crying
+up the Clemency of the <hi>Tyrant</hi> on the Throne, yet it ſays, we have to do
+<pb n="5" facs="tcp:36152:3"/>
+with Men that have Murder in their Hearts, altho they be now ſpeaking
+fair, <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>leechingly and Flatteringly to this Generation; Yet when they ſpeak
+fair, believe them not, for there are ſeven Abominations in their Hearts.
+Tho' many be crying up the Leuity of the Mutdering Enemies. The Lord
+was pleaſed to Alarm us with this Diſpenſation, though to us very coſt<g ref="char:EOLhyphen"/>ly;
+Which ſayes, that they have not changed their Nature, they have the
+ſame Nature ſtill: they have the ſame end, and Deſign ſtill, though they
+have changed their Methods and Meaſures a little, yet wherever they find
+any Aſſerting the Teſtimony of the day, their Rage and Fury is as great
+againſt them as ever: And it ſays, it is no time now to fall Aſleep, and
+to cry peace, and Safety: For the Lord is calling us to awaken, and when,
+the Lyon Roars, who will not fear? and when the Lord God hath ſpoken,
+who can but P<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>opheſie? But we by this pa<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ticular ſee, that we have to
+do with Bloody <hi>Papiſt<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> altho' they be now ſpeaking fair, alter all the Blood
+they have ſhed both on Fie<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ds, and on Scaffolds, and in the Seas; yet they
+have the ſame Nature ſtill they <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſame Captain, and they are Proſe<g ref="char:EOLhyphen"/>cuting
+the ſame Wa<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſtill againſt the Prince of the Kings of the Earth. The
+<hi>Drag<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n</hi> and his Angels is ma<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ging and carrying on the ſame War ſtill a<g ref="char:EOLhyphen"/>gainſt
+<hi>Michael</hi> and his Ang<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ls that he did forme<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly, though he had chauged
+his Method a little. O <hi>Scotland,</hi> who hath bewitched you? have you not
+had the Experi<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce of the Dreadfulneſs of the Tre<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>chery and Cruelty of
+<hi>Papiſts</hi> before? and will ye believe them at their fi<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt Word, Eſpecially
+with a Tolleration; when the moſt part of the P<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oteſtant Churches of <hi>Europe</hi>
+have had a Taſt of their Falſhood, and have been Cheated by ſuch a method.
+Was not the <hi>Protestants</hi> in <hi>France</hi> Cheated by ſuch a Tolleration granted
+to them by the <hi>Tyrant</hi> there? which when he ſaw ſit, he took away; and
+made them either to Renounce and Abjure their Religion, or then endure
+great Sufferings. Was not the <hi>Proteſtants</hi> in the Value of <hi>Pi<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dmont</hi> Ruined
+by making Peace and Conſederacy with the Duke of <hi>Savoy?</hi> And will no<g ref="char:EOLhyphen"/>thing
+awaken us? O poor <hi>Scotland,</hi> awaken ye and <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eep not now in Peace
+and Eaſe, for you have to do with thoſe that are intending nothing but Maſſa<g ref="char:EOLhyphen"/>cres,
+nothing but the Subverſion of Religion, and the utter Ruine and Over<g ref="char:EOLhyphen"/>throw
+of the Cove<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>anted Reformation, and all that adhere to it. And they ar<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+beguiled that thought the Devil was grown better in his Old Age: For many
+thought (ſo to ſpeak) that the Devil and Antichriſt were grown better i<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+their Old Age by granting this Toleration. Therefore hath the Lord Al<g ref="char:EOLhyphen"/>larmed
+us by this Diſpenſation: He would take one of his Jewels and let him
+fall into their Hands, and ſuffer them to diſcover their Bloodineſs upon him
+<pb n="6" facs="tcp:36152:4"/>
+and thereby let us ſee whom we have to do with. It hath this Language
+with it; and wo to them that will not hear it.</p>
+            <p>
+               <hi>Fourthly,</hi> It hath another Cry, for as little as ye may think of it: Yet it
+hath this Language with it, that there is a very ſad Defection this day, and
+that there are few Valiant for the Truth upon the Earth. We may ſay as
+<hi>Jeremiah</hi> ſays, <hi>Chap.</hi> 9 He Complains ſadly in ſuch a Caſe, and ſays, <hi>Oh! that
+my head were Waters, and mine Eyes a Fountain of Tears, that I might Weep
+day and Night for the Slain of the Daughter of my People. Oh! that I had in the
+Wilderneſs a lodging-place of way: faring-men, that I might leave my People,
+and go from them. For they be all Adulterers, an Aſſembly of Treacherous men:
+And they Bend their Tongues like their Bows for Lies: But they are not Va<g ref="char:EOLhyphen"/>liant
+for the Truth upon the Earth.</hi> What way does it ſig<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ifie this ye'll ſay?
+Then I'll tell You, none can be Valiant for the Truth upon the Earth, and
+Faithful for Chriſt, but he will be expoſed to the Cruelty and Rage of His
+Bloodies <hi>Antichriſtian</hi> Enemies; it hath been ſo always, and will be ſo.
+For <hi>Michael</hi> and the <hi>Dragon</hi> are two Parties; and there muſt be a War
+kept up by all the Lord's Called, and Choſen, and Faithful, againſt the
+<hi>Dragon</hi> and <hi>Antichriſt,</hi> without any Ceſſation, Truce or Tranſaction with
+them; And if any will diſcover any meaſure of Valiantneſs for the Cauſe,
+or will be Zealous for Chriſt; then he muſt exp<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct for the Fury of all the
+World. He may look for the Rage of the <hi>Devil</hi> and of <hi>Antichriſt</hi> of <hi>Papiſts,
+Prelats</hi> and <hi>Malignants</hi> to be againſt him: For where <hi>Satan</hi> hath his Seat
+on the Throne of the Kingdom, the poor <hi>Antipas</hi> muſt ſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffer Martyrdom
+<hi>(Rev.</hi> 2, 14.) I ſay it ſpeaks out much Deſection, when thoſe that pre<g ref="char:EOLhyphen"/>tend
+to be for the Truth on the Earth, and thoſe that ſhould contend for
+the Truth, gets leave to enjoy all their Liberties from Enemies.</p>
+            <p>For it cannot be, neither was it ever ſeen, but all that were Valiant for
+the Truth, and Zealous for the Cauſe of Chriſt, but they had all the Ene<g ref="char:EOLhyphen"/>mies
+of Truth upon their Top. And theſe that now have peace, it ſays
+they are not ſo now, for the Covenants are not only broken and burnt, but
+Declared Criminal to be owned; and the Covenanted Reformation like to
+be Ruined and razed: And when there is ſo much peace with <hi>Antichriſt,</hi>
+it is a Wrath-prefaging thing, a Wrath procuring thing. And his Blood
+crys for Vengeance againſt all thoſe who have been ſeeking to have peace
+with the Enemies of GOD, that have encroached on all His Prerogatives.
+For thoſe who would be Zealous in Adhering to, and contending for thoſe
+things, muſt expect to have all Truths Euemies againſt them. And now
+<pb n="7" facs="tcp:36152:4"/>
+when an Abſolute Power (which is the incommunicable Prerogative of JE<g ref="char:EOLhyphen"/>HOVAH)
+is arrogate by the <hi>Tyrant</hi> now upon the Throne, a Vaſſal of
+<hi>Antichrist:</hi> And this Power Recognoſced, by the accepting and embrac<g ref="char:EOLhyphen"/>ing
+of the Toleration which flows from it, and when <hi>Popery</hi> is like to come
+in at this Gap, and be eſtabliſhed, any who would be Faithful in Witneſ<g ref="char:EOLhyphen"/>ſing
+againſt thoſe things, and would be Zealous in contending for the Prero<g ref="char:EOLhyphen"/>gatives
+of CHRIST, and the Privileges of His Church, may look and ex<g ref="char:EOLhyphen"/>pect
+to have the Fury and Rage of all Chriſt's Enemies bent againſt them.
+But now when there is ſo much ſilence as to thoſe things, and ſo great en<g ref="char:EOLhyphen"/>joying
+of Peace and Quietneſs: it ſays, there is a great Delection, and that
+there is few Valiant for the Truth upon the Earth. Nay, many have bought
+Eaſe at the rate of Selling the Truth.</p>
+            <p>
+               <hi>Fifthly,</hi> I'll tell you what it proclaims, and it is that, that <hi>Jeremiah</hi> com<g ref="char:EOLhyphen"/>plains
+of in his day, <hi>Chap. 9. 3. That many hath bent their Tongues like
+their Bows for Lies: But they were not valiant for the Truth.</hi> Yet there was a
+great deal of Zeal in the Witneſſes of God in that day; So it cryes for Ven<g ref="char:EOLhyphen"/>geance
+againſt the Shedders; alſo it proclaims ſhame and ignominy on lying
+Tongues that reproaches Truths Sufferers. And it proclaims ſad things to
+thoſe who were guilty of reproaching him; and if this had been among Ene<g ref="char:EOLhyphen"/>mies,
+the matter had been leſs: For we would think it a Reproach not to be
+Reproached by the Enemies of God. But to be reproached by theſe who
+are not only <hi>Proteſtants,</hi> but Covenanted <hi>Presbyterians,</hi> it is very ſad: Yet
+thoſe who are now above the reach of reproaching Tongues have met with
+it firſt and laſt. For from the Death of Mr. <hi>James Guthrie,</hi> till Mr. <hi>James
+Renwick</hi> ſuffered, all the faithful and Zealous Miniſters of Chriſt were re<g ref="char:EOLhyphen"/>proached:
+Was not Mr: <hi>James Guthrie</hi> called a Fool? Was not Mr. <hi>Kid</hi>
+and Mr. <hi>King</hi> called <hi>Jeſuites?</hi> And was not Mr. <hi>Donald Cargil</hi> and Mr. <hi>Rich<g ref="char:EOLhyphen"/>ard
+Cameron</hi> called the ſame? And what Reproaches and Calumnies that
+could be broached out of Hell, was not caſt on Mr. <hi>James Renwick?</hi> He was
+ſeen at Maſſes, and in League with the Enemies, and they would not ſtir not
+trouble him, I cannot rehearſe the one hall of them, but the Lord hath Vin<g ref="char:EOLhyphen"/>dicated
+his Servant of them all, though dear to us. But his blood Cryes a<g ref="char:EOLhyphen"/>loud
+againſt thoſe Reproaches, ye would take notice of it, and not think it
+a light matter to reproach the Servants of the Living God: For there is no
+part of the preſent Teſtimony that we have Witneſſed for, and that we do
+own, but it is ſounded upon the word of God, the Confeſſion of Faith, and
+the Conſtitution of the Covenanted Church of <hi>Scotland,</hi> we are able to make
+this out. Wherefore in Reproaching us, ye Reproach the Living God, the
+<pb n="8" facs="tcp:36152:5"/>
+Cauſe of Chri<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and the Covenanted Reformation of the Church of <hi>Scotland.</hi>
+But, O it is ſad, that thoſe that are <hi>Presbyterians</hi> have ſuch Arguments a<g ref="char:EOLhyphen"/>gainſt
+us, for all their Arguments are ſuch as <hi>Papiſts</hi> have; all have the ſame
+Arguments againſt us, and caſt the ſame Reproaches upon us: For not
+only all the <hi>Papiſts, Prelats,</hi> and <hi>Malignants</hi> of the Land, but alſo our De<g ref="char:EOLhyphen"/>clining
+Brethren Miniſters and Profeſſors, uſe one and the ſame Arguments
+againſt us, and caſts the ſame reproaches upon us: But we have this Advant<g ref="char:EOLhyphen"/>age
+by it, that all our Enemies are on the one hand, which makes it the eaſier
+to deal with them. What can any ſay againſt us? But all the <hi>Papiſts</hi> and <hi>Ma<g ref="char:EOLhyphen"/>lignants</hi>
+in the Lord will ſay ſo too: So we have them all upon the left hand,
+and none upon the Right, I ſay, there is very much to be learned by this
+bloody Diſpenſation. For the <hi>Papiſts</hi> are begun to their bloody Pract<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>c<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s;
+from which it is to be Learned <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> they will not be reſtrained, untill they do
+ſtrange bloody Works, for it is their nature; and they cannot be reſtrained
+from it, and it ought to have a dreadful cry in our Ears.</p>
+            <p>Sixthly, It hath another Cry, which is this, as it c<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ys for Vengeance a<g ref="char:EOLhyphen"/>gainſt
+all the Shedders, and all that have any acc<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſion to the ſhe<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing of it:
+So it calls aloud to us, to enquire into the Heads for which he ſuffered;
+leaſt we be found Trample<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s on his Blood. The Teſtimony againſt this
+Antichriſtian Tolleration is now Sealed with Blood. The Teſtimony againſt
+this preſent Tyrrannical Government of this Duke of <hi>York</hi> is now Sealed
+with Blood. The Teſtimony of the Goſpel Ordinances diſpenſed by Chriſt's
+Faithful Servants in the perſecuted Field-Meetings, is now Sealed with Blood.
+The teſtimony for Defenſive Arms is now Sealed with Blood He teſtified againſt
+that Land deſtroying fin, the paying of the Ceſs and the Locality, for bearing
+down the Free Preaching of the Goſpel (which was never Settled before)
+And let me tell you, O ye Ceſs Payers, for I know that there are many
+of you here: I have ſad News to tell you, and whether you will hear or
+forbear, <hi>I</hi> muſt tell you it: but I would counſel you to hear and forbear the
+Pr<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctice of paying it<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> I ſay, I muſt tell you from the Lord, that ye are
+Guilty of the Murder of the Lord's People, and of this Martyr's blood a<g ref="char:EOLhyphen"/>mongſt
+the reſt, which teſtified againſt it, and Sealed it with his Blood: Nay,
+Let me tell you more, ye are guilty of the ſheding of the blood of Jeſus
+Chriſt, and Crucifieing of Him afreſh: For ye have given your concurrence
+and your helping hand to the Crucifyiug Chriſt afreſh again in <hi>Scotland,</hi> for
+Chriſt has been as really Crucified in <hi>Scotland,</hi> as He was upon Mount
+<pb n="9" facs="tcp:36152:5"/>
+Calvary without the Gates of <hi>Jeruſalem,</hi> and ye are as gui<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y of his Blood as
+the Souldiers who did it. Ye may think this ſtrange, but it is true, for
+there is ſuch a thing as the Crucifieing of Chriſt afreſh, <hi>Heb.</hi> 6. 9. And
+Chriſt may be crucified again Myſtically in his Truths, Cauſe, and Members,
+when his Truth and Cauſe are Oppoſed, Contradicted and Reproached, and
+his Members Murdered by wicked bloody Enemies, then is He Myſtically
+crucified afreſh, and put to open ſhame. And in <hi>Scotland,</hi> is not his Truths
+and Cauſe oppoſed, Contradicted and Reproached, and his Members Mur<g ref="char:EOLhyphen"/>dered?
+Did not the wicked Convention and Parliament who laid on the
+Ceſs tell you in the Narrative of their Acts, that it was for ſuppreſſing of
+Field Meetings, called by them the Randevouzes of Rebellion! So term they
+the Meetings of the Lords People for Goſpel Ordinances: So that they
+have not leſt you ignorant of that wherefore they required it; which was,
+to Baniſh Chriſt and his Goſpel out of the Land, and to Murder all his Ser<g ref="char:EOLhyphen"/>vants
+and People who would avow and avouch their Adherance to the ſame:
+And they required your help and ſupply to get this wicked turn done.
+which I dare aver in the ſight of Heaven, ye are Chriſts Murderers, and the
+Murderers of all the Saints that has been Murdered ſince: For you have
+bought the Swords that did it; and you have bought the Ropes that hanged
+them, and if you had not been the Hangmen your ſelves, you could have
+done no more, for it was told you, that it was for that end.</p>
+            <p>Then again in the Paying of it<g ref="char:punc">▪</g> it hath this Aggravation, that it is againſt
+Light; Ye are convinced it is a Sin: For many of you, if we come to you
+and ſpeak about it, ye will confeſs it is a Sin, and yet ye go on in the
+Paying of it without any Excuſe: O that is dreadful! will Ye but con<g ref="char:EOLhyphen"/>ſider
+the ſinfulneſs of it? You dare not deny but it is a Breach of Covenant,
+and that it is againſt the Acts of our Aſſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mblies; and the Word of GOD
+condemns it: And yet Ye pay it, that Ye might keep Your Houſes and
+enjoy Your Land. O there ſhall be a Curſe lying on Houſes and
+that have preferred them to the Bleſſed and Glorious Goſp<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l, the Cauſe of a
+Ma<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>llings, broken Covenant, the Blood of his Murdered Servants,
+and the Guilt of crucifieing of CHRIST afreſh ſhall ly on You; and
+the Blood of this Martyr that Suffered laſt, who Teſtified againſt that
+ſin; cryes for Vengeance againſt You, for it was never before Sealed
+with Blood, and that gives us to Mark it the more. And if You will not
+hear and forbear it, an <hi>Europe</hi> ſhall hear of the Terrible Judgements that
+ſhall come upon You, for the promoting, Maintaining and Helping for<g ref="char:EOLhyphen"/>ward
+this Heaven-daring-revolt againſt the SON of the Moſt HIGH. Now
+<pb n="10" facs="tcp:36152:6"/>
+I would have You to conſider what his Blood cries to You for; and ſay it to
+Hear<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; for it call<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> You to Eſteem, Love, and conteud for thoſe Truth<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+which he Sealed with his Blood: For they are worthie of the Lives of
+Thouſands. Yea, ev<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n of all the Wo<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ld: The leaſt of Chriſt's Truths, is
+worth the Lives of all the World; much more ſuch great Truths.</p>
+            <p>I thought I would tell You this in the Entrie. Now let us compoſe our
+ſelves, and <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> our ſelves in the Sig<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t of this Great GOD, and beg His Pre<g ref="char:EOLhyphen"/>ſence
+and Aſſiſtance to what we are about. <hi>Let us pray.</hi>
+            </p>
+         </div>
+         <div type="sermon">
+            <head>
+               <date>April 15. 1688.</date>
+Some Notes or Heads of a LECT<g ref="char:V">Ʋ</g>RE Preached at Diſtinckorn-Hill
+in the Pariſh of Gaaſtoun, by Mr. Alexander Shields, Preacher
+of the Goſpel.</head>
+            <head type="sub">
+               <g ref="char:V">Ʋ</g>pon 1. Samuel 15. Chap, from the 13 verſe to the 24<g ref="char:punc">▪</g>
+            </head>
+            <p>THe People of <hi>Ireal</hi> and the People of <hi>Scotland</hi> a<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e very like other: they have
+been equal in <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rivileges and they have been equal in Sin<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, They were a
+ſpecial privileged people, as war in all the World. They were a Covenant<g ref="char:EOLhyphen"/>ed
+people, a peculiar people, They were likewiſe a very treache<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>our people,
+and guilty of many breaches of Covenant. They were unſteadfaſt &amp; change<g ref="char:EOLhyphen"/>able,
+they could not ſtay long at one thing; and they were a very Loyal
+people: Yea, and ſometimes a wicked Loyal people. They would
+have a King like the reſt of the Nations. Well, the Lord gave them a King in His Anger,
+and took him away in His Wrath. They might well have wanted a King; for they had
+a very good Government before, They had the Lord to be their King: And He raiſed them
+up Judges fi<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed for Governing and Ruling aright Therefore becauſe they deſired this
+Change, The Lord ſays unto <hi>Samuel,</hi> hearken unto them, for the<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> have not rejected thee,
+but they have rejected Me, that I ſhould not Reign over them. Well, the Lord gave them one,
+but ſuch an one that made the Child to weep that was unborn. Well, he began right well.
+And the Lord is here taking a Proof of him, whether he would perform Obedience to his
+Command or not; and he puts him on this piece of Service to go and Execute Vengeance
+on <hi>Amalek</hi> which was a Neceſſar Duty, a Moral Duty, for they were to have War with
+<hi>Amalek</hi> for ever. For the Lord had given a particular Charge to the Children of Iſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ael,
+<hi>Deut,</hi> 25 and laſt verſe. To blot ou<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Remembrance of <hi>Amalek</hi> from under the Heaven,
+and not to forget it: And the Lord pu<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s this in the hands of <hi>Saul</hi> to diſcover his Hypo<g ref="char:EOLhyphen"/>criſie,
+I ſhall go no further on the Introduction, but to lead to <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Application to our Caſe.</p>
+            <p>We have <hi>Amalek</hi> to deal wi<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h; for <hi>Amalek</hi> does Typifie all the Enemies of the Church
+in general, and hath a Reference to them in theſe Words that we have Read: There is
+theſe ſix or ſeven Things contai<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed,</p>
+            <p>
+               <pb n="11" facs="tcp:36152:6"/>
+There is Firſt, the Meeting of <hi>Samuel</hi> and <hi>Saul</hi> together in that 13<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> verſe and that
+Me<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ting was little for <hi>Saul's</hi> profit: Poor <hi>Samuel</hi> in the Night before (when he heard that
+he diſobeyed the Command of the Lord) <hi>had been Weeping and Crying all Night to GOD for
+him;</hi> And he<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e he comes to him, and he came with an Intention to be free with <hi>Saul.</hi>
+            </p>
+            <p>We have <hi>Secondly Sauls</hi> accoſting the Prophet; he took the firſt word and ſpoke, where<g ref="char:EOLhyphen"/>in
+are two things Firſt <hi>Sauls</hi> Hypocritical Salutation of <hi>Samuel,</hi> and <hi>Saul</hi> ſaid unto him,
+<hi>bleſſed be thou of the Lord. 2ly,</hi> his Vaun<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing of his Performances <hi>I have performed the Com<g ref="char:EOLhyphen"/>mandment
+of the Lord:</hi> He began to juſtifie himſelf. We have</p>
+            <p>
+               <hi>Thirdly,</hi> The Prophets Challenging of him in the 14 verſe, as if he ſaid, have ye done ſo?
+have ye performed the Commandment of the Lord? <hi>What means then the bleating of the ſheep,
+and the l<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wing, of the Oxen in mine ears?</hi> For you get a Commiſſion to go and Deſtroy theſe and
+curſed <hi>Am<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lekites,</hi> and all that appertained to them. G<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d's Command was to cut off all, and
+if ye have done it, what means all this Din then? Every Rout of the Oxen, and every Bleat of
+the ſheep, declares you to be a Rebel againſt GOD.</p>
+            <p>Fourthly, <hi>We have</hi> 
+               <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Excuſe, and Extenuation of his ſin:</hi> It was the people that did
+it, not I; <hi>and they d<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d it for a good End,</hi> viz. That they might take of thoſe ſheep and oxen
+to Sacrifice unto the Lord <hi>in</hi> Gilgall.</p>
+            <p>
+               <hi>Fifthly,</hi> We have the Prophets preſſing home the Charge with many aggravating Circum<g ref="char:EOLhyphen"/>ſtances
+to the 16<g ref="char:punc">▪</g> 17. 18 19. verſes: As if the Prophet had ſaid, well, you Excuſe your
+ſelf, but I muſt be free with you; remember this, that y<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u may ſee the Aggravation of your
+ſin: <hi>Remember what you were when God advanced you? Ye were little in your own fight when
+you were An inted King over I<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rael:</hi> And further you were then put in a Capacity to do the
+Will of God, and <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Obey His Command. And then the Lord was very particular with you,
+<hi>To go and deſtroy, and root cut theſe Curſed Amal<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>kites;</hi> but ye have not obeyed His Voice,
+but have Rebelled againſt him.</p>
+            <p>Sixthly, <hi>We have</hi> Saul's <hi>perſiſting in his juſtifying of himſelf in the</hi> 20 verſe. Yea, I
+have Obeyed the Voice of the Lord, and have gone the Way that the Lord ſent me; and I have
+brought <hi>Agag</hi> the King of <hi>Amalek,</hi> and have utterly Deſtroyed the <hi>Amalekites;</hi> but the
+People to<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k of the Spot<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, Sheep and Oxen to Sacrifice unto the Lord thy God in <hi>Giſgall.</hi> He
+would not give over the Plea, what they had done, they had done it for a good End.</p>
+            <p>And then in the <hi>Seventh</hi> place, We have the Prophets convincing him of his Rebellions
+in the 22, 23 <hi>Verſes;</hi> as if he had ſaid, a Sacrifice, what cares the Lord for your Sacri<g ref="char:EOLhyphen"/>fice,
+or you either? He loves Obedience better than S<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>crifice. Will ye ſerve God in your
+own way? No, he will be ſerved in his own way: But now ye are not his Servant, ſeing
+ye have Diſobeyed his Comm<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd; ye are but a Rebel.</p>
+            <p>Then in the <hi>laſt place,</hi> We have the Sentence that the Prophet pronounces againſt this
+Rebel: As if he had ſaid, ſeing ye have Diſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>beyed his Command, He hath taken away and
+invalidate your Authority; ye may have the Title and the Name for a while, but ye are
+no more King over <hi>Iſrael;</hi> He will have no more of your Service. So theſe are the parti<g ref="char:EOLhyphen"/>culars
+of the words which we have read, and we ſhall go over them again, and ſpeak a
+little to each of them as time will allow, applying them to our times.</p>
+            <p>The <hi>Firſt</hi> thing then is the Meeting of the Prophet and this Hypocritical King: The
+Lord had told <hi>Samuel</hi> in the Night bef<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re, how <hi>He was Diſpleaſed with</hi> S<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ul, <hi>and that he
+had Rej<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cted him, and would not have him to be King any longer:</hi> And the Prophet Weeps
+all the N<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ght over for poor <hi>Saul.</hi> This was his Exerciſe, for if he could have gotten the
+W<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ath and Anger of the Lord turned away from <hi>Saul,</hi> he would <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> have had it done
+as we ſhould all of us do, We ſhould not deſire the Evil day on any; but ſhould <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="12" facs="tcp:36152:7"/>
+for the ſins of Enemies, and for the Judgements of Enemies: So likeways we ſhould
+them. And he went from one place to another till he gets <hi>Saul</hi> to witneſs againſt <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+12 <hi>Verſe. And when</hi> Samuel <hi>
+                  <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>roſe early to meet</hi> Saul, <hi>in the morning it was told</hi> Samu<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>ſaying</hi> Saul <hi>came to</hi> Carmel <hi>and behold, he ſet him upon a place, and is gone about, at
+paſſed on, and gone down to</hi> Gi<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gall.</p>
+            <p>Whence we Obſerve, when judges or any in Eminent Note Rebell againſt God, all the
+Servants of God ſhould not only mourn over them in ſecret, but witneſs againſt them publickly, as
+<hi>Samuel</hi> did. Miniſters ſhould be free, and Faithful in preaching againſt the ſins of every one
+who ever be offended, this is a clear Duty, it Ye will conſider theſe two or three things, Firſt
+Why this ſhould be done. <hi>2dly.</hi> Who is the Object againſt whom they ſhould witneſs. <hi>3dly.</hi>
+When is the time that this ſhould be done.</p>
+            <p>
+               <hi>Firſt then,</hi> Why Rebellion ſhould be witneſſed againſt be in whom it will, which is a duty
+very much ſlighted in our D<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y: We ſhould not ſuffer ſin upon our B<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>other, when we ſee him
+ſin, we ſuffer ſin upon him when we do not reprove him, and the not reproving of him, is
+a <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ating of him. <hi>We hate our Brother when we do not tell him of his Sin, and they are guilty
+of their blood, 33 Ezek,</hi> They that do not d<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>clare the whole Coun<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>el of God, cannot ſay
+that they are free of the blood of all Men: They ſhould tell what are their ſins, and that
+they ſhould repent of their ſins.</p>
+            <p>
+               <hi>Secondly,</hi> It is clear, If ye will conſider the Names that Miniſters get in Scripture, as
+<hi>Watchmen, and thoſe muſt <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>et the Trumpet to their Mouth, and give Warning when the ſee dan<g ref="char:EOLhyphen"/>ger
+coming,</hi> otherways they are guilty of their Bl<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>od. And alſo it is clear from what they
+have in Commiſſion, 58 of <hi>
+                  <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a. They muſt cry aloud and n<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t ſpare, and lift up their Voice like
+a Trumpet, and ſhew the Lords Peop<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e their Tranſgreſſi<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns, and the Houſe of Jac<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b their Sins:
+Zek. 16 2. Cauſe Jeruſalem know her abominati<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns,</hi> Zek. 20. 4 <hi>Cauſe them to know their Fa<g ref="char:EOLhyphen"/>thers
+Sins.</hi> And when Miniſters does not this, they cannot ſay with Paul, <hi>That they are free
+from the blood of all Men. Acts</hi> 28. Seing if they do not tell the People of their Sins, they
+have ſhu<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ned to declare unto them all the Counſel of God: F<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r how can People Repent of
+and mourn for thoſe ſins that they do not know nor told of; There is many a Direction to
+the Servants of God to declare againſt the Sins of his People, and they ſh<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uld make their Wit<g ref="char:EOLhyphen"/>neſs
+againſt publick ſins, as publick as they can.</p>
+            <p>
+               <hi>Thirdly,</hi> It is clear, if ye will conſider, that there is no way left to avert the Wrath of
+God from the whole Land, but a publick pl<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ading againſt thoſe ſins: For we find that for
+<hi>Sauls</hi> Sin, there was Three Years Famine on the whole Land. For <hi>David's</hi> sin of Number<g ref="char:EOLhyphen"/>ing
+the People, there fell of the People Ten Thouſand<g ref="char:punc">▪</g> And for <hi>Man <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> ſin the Ears
+of all <hi>Judah</hi> was made to <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in, let So as upon the one hand, the ſins of <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ulers b<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ings on the
+Wrath of God on a Land<g ref="char:punc">▪</g> So upon the other hand the unfaithfulneſs of Miniſters in not giv<g ref="char:EOLhyphen"/>ing
+faithful Warning, and telling the People their ſin and Du<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, brings Wrath upon the whole
+Land, <hi>Lev 10. 6. And Moſes ſaid unto Aaron, and unto Eleazar, and unto <gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>hamar his Son,
+uncover not your Heads, neither rent your Cloaths leaſt you die, and leaſt Wrath come upon all the
+People, Iſa 44. 43. Jer. 14 13. Micha 3, <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ad</hi> 5. Where it is clearly inſinuated, that
+the ſins and unfait<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fulneſs of Miniſters brings Wrath upon a<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l the People. N<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w I ſay, there
+is no other way leſt to avert the Wrath of God from a Land but publick pleading for Truth
+and againſt Sin and Defection, which is clear, <hi>Iſa. 59 15 16 Verſes,</hi> Yea truth falleth, and
+he that departeth from Evil, maketh himſelf a prey, <hi>And the Lord ſaw it<g ref="char:punc">▪</g> and it diſpleaſ<g ref="char:EOLhyphen"/>ſed
+Him, that there was no Judgment, and He ſaw that there was no Man, and wondered that
+there was no Interceſſor. And</hi> Jer. 5 1. <hi>Run ye to and fro<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> through the Streets of</hi> Jeruſalem,
+<hi>and ſee now and know, and ſeek in the broad places thereof, if ye can find a Man, if there be any
+<pb n="13" facs="tcp:36152:7"/>
+that executeth Judgment and ſeeketh the Truth, and I will pardon it: As if the Lord would ſay.
+Now I am going to bring Judgment on the Land, and if ye can get any that executeth Judgment
+and ſeeketh the Truth, I will turn away my Wrath: And in the 9 of</hi> Jer. 3 verſe <hi>They are
+not Val<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ant for the Truth.</hi> And Ezek. 22. 30. <hi>And I fought for a Man among them that ſhould
+make up the Hedge and ſtand in the Gap (before ME) for the Land, that I ſhould not deſtroy it,
+but I found none: Theref<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re have I poured cut my Indignati<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n upon them; I have conſumed them
+with the Fire of my Wrath. Where we may ſee, if there had been any to make up the Hedge and
+ſtand in the Gap (Before ME) the Land would not have been destroyed.</hi> We may ſee like<g ref="char:EOLhyphen"/>wiſe
+from this, that Miniſters ſhou<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d n<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t only be free and Faithful in Witn<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſing for Tru<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h,
+but they muſt wreſtle with G<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d as well as for God, and their Wi<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſs muſt be as publick as
+can be, f<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r the expreſſions of ſeeking the truth, and m<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>king up the Hed<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e does import i<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, ſee<g ref="char:EOLhyphen"/>ing
+theſe cannot be done bu<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in a publick manner: But alas! There is n<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne found this day
+to ſtand in the Gap, and to plead with their Mother, tha<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhe ſhould put away her Whore<g ref="char:EOLhyphen"/>dome
+and Defections, yet it is the only way to turn away Wrath for all that, <hi>Ho<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ea</hi> 2. 2. Ala!
+We have few in <hi>Scotland</hi> this day to Wreſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le, Mourn and Plead: And yet every Rebellion
+that it done againſt G<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, when we do not declare againſt it, we declare our ſelves guilty of
+concealing Treaſon.</p>
+            <p>Secondly, Againſt whom ſhould we Witneſs? againſt all, Great or Sin <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll, they muſt not
+Spare t<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>em when they Sin? ei<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Fear or Fav<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur. So we find <hi>Samuel</hi> here did Wit<g ref="char:EOLhyphen"/>neſs
+againſt <hi>Saul,</hi> and <hi>Nathan</hi> the Prophet did Witneſs againſt <hi>David, Hanani</hi> the Seir
+againſt <hi>Aſſa,</hi> and againſt <hi>J<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſhaphat.</hi> So we find <hi>
+                  <gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>aiah</hi> did Witneſs ag<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inſt <hi>Hezekiah Elijah</hi>
+againſt <hi>Jerobeam,</hi> and <hi>Elijah</hi> againſt <hi>Achab.</hi> Yea many times theſe Examples has been <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uced
+to us to Witneſs againſt all Sins be <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> it will; Eſpecially M<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>niſters ſh<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uld
+preach againſt the ſins of Tyrants Our ancient Re<gap reason="illegible" resp="#TECH" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>mers at the beginning or the Refor<g ref="char:EOLhyphen"/>mation,
+made uſe of the freedom and faithfulneſs of the Prophets in reproving the ſins of
+the King of <hi>Judah</hi> and <hi>Iſrael,</hi> to prove the lawfuln<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſs of what they did, in
+reproving, the ſins of the Great Folk in their time. And ſome of t<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en took the Free<g ref="char:EOLhyphen"/>d<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m
+to ſay there is many Folk now a days, that wi<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l h<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve no other Religion than the
+<hi>Queens,</hi> and the <hi>Queen</hi> wi<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l have no o<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her Religion than the <hi>Cardinals,</hi> and the <hi>Cardinal</hi>
+wi<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l have no other Religion than the <hi>
+                  <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>;</hi> and the <hi>P<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pe</hi> will have no other Reli<g ref="char:EOLhyphen"/>gion
+than what pleaſes the <hi>D<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vi<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>:</hi> And ſo it may be ſaid of many in our d<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y; Many will
+have no other Miniſter but ſuch as pleaſes the King, the King does n<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>thing but that pleaſes
+the Pope, the Pope d<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es nothing but what pleaſes the Devil! And look Ye and ſee what
+ſort of Preaching that muſt be then Have ye not a brave Tolleration of it then? For upon
+theſe Terms was it given; <hi>That Miniſters ſhould preach nothing that war Se<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>it<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>us <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r Treaſonable
+or might any way tend to al<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>enat the hearts of the People from the King and his Government: And
+what is that? But that they ſh<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uld preach nothing againſt the ſins of the Time, nothing of the
+Tyrannie of the Time, n<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>thing againſt that Abſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lute Power he hath arrogated, nothing of the In<g ref="char:EOLhyphen"/>coming
+of P<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pery at the Gate and Gap of this Tolleration, nor of the Snares of the Times, not what
+was the People's Duty in ſuch a Caſe; for that would be Sedit<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>us by the</hi> King, <hi>the</hi> Pope, And
+chriſt, <hi>and the</hi> Devil! And alas! it is ſad <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, that this Toleration is complyed with,
+and that the Freedom and Faithfulneſs that ſhou<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d be uſed in theſe things, is forborn by
+the Miniſters that Preaches in the Meeting Houſes, for this pleaſes the King and the Pope,
+and the Devil well.</p>
+            <p>
+               <hi>Thirdly,</hi> When is the time that Miniſters ſhould be thus Free, Faithful and Publick to Witneſs
+againſt publick ſins, <hi>Samuel</hi> took a very fit time to reprove and convince <hi>Saul,</hi> juſt after the
+<pb n="14" facs="tcp:36152:8"/>
+committing of the ſin: And if ever there was a time to Witneſs againſt publick Sins, this
+is it: But in Anſwer to this. I ſhall ſhew you from Scripture: when is the time and Sea<g ref="char:EOLhyphen"/>ſon
+of giving a publick Witneſs and Teſtimony for Truth and againſt Sin. As firſt, when
+Enemies are relenting a little from th<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ir Cru<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lty, former Rage and Fury againſt the Lord's
+People, yields ſomewhat, and offers Liberty upon eaſier Terms than before; when they are
+very accommodating and yielding, then that is the ver<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Seaſon of a Teſtimony for Truth,
+without yeilding in the leaſt to them Thus it was with <hi>Pharaoh,</hi> he was very ſtubborn at firſt,
+but after that he had keeped the Children of <hi>
+                  <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rael</hi> long in <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ond, he yields much, and grants
+to let them go upon condition that they would let him but keep ſome of the Sheep; but
+<hi>Moſes</hi> thought this a fit time of giving a Teſtimony; he would not yeild to <hi>Pharaoh</hi> in this, not
+a Hoof ſays <hi>Moſes</hi> ſhall be left behind us, and we ſhould all be Slaves this Hundred Years,
+N<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y though we ſhould never be delivered. The Tyrant upon the Throte hath ſomewhat
+relented of his former Fury, he hath yeilded ſomewhat, and offers Accommodation with the
+Lord's People, but yet upon c<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ndition<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Deſtructive to the cauſe of Chriſt: Then now is a
+time of giving a Teſtimony, declaring, th<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap> we will not quite one H<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>of of Truth, nor yeild
+to him in the feaſt: So when ever Enemies will be pleaſed with leſs than formerly, that
+is the time to teſtifie againſt Sin.</p>
+            <p>
+               <hi>Secondly,</hi> When ever there is a Tolerati<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n granted when Idolatry and I<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>laters is Tollerated,
+as in <hi>Jud<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es,</hi> 20. The Children <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to the <hi>Cananites,</hi> there came an
+Angel of the Lord, to wit a Pr<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>phet and teſtified againſt th<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m. And <hi>Soul</hi> h<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re had given a To<g ref="char:EOLhyphen"/>leration
+to Agag, by ſparing of his Life, <hi>Sam<gap reason="illegible" resp="#TECH" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> teſtified againſt him, and t<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ld him, that he
+was but a Rebel to <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for the doing if it<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> when <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> gave a Tolerati<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n to <hi>
+                  <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> he
+called him his Brother and <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his Life there comes a Pr<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>phet <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Lord and reprove<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> him,
+1 Kings <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>0, and ſays, <hi>Thy Life ſhall go <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> his Life, and <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> People <gap reason="illegible" resp="#TECH" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi> As al<g ref="char:EOLhyphen"/>ſo
+when <hi>Ah<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>z</hi> to<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k a Toleration from the <hi>A<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſyrious,</hi> and entered into <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Aſſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ci<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tion and Confe<g ref="char:EOLhyphen"/>deracy,
+with <hi>Tiglath Pelezar</hi> King <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, the Prophet <hi>
+                  <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> thought this the Seaſon of
+giving a Teſtimony <hi>Chap</hi> 8, 12: Sa<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ye, <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a <hi>Con<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ederacy to all them to whom this
+People ſhall ſay a C<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ederacy</hi> And is not n<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w Idolatry and Idolaters Tollerated, is not
+<hi>Papiſts</hi> and <hi>Quakers</hi> Tolerated? Then this is the time of giving a Teſtimony for Truth, and a<g ref="char:EOLhyphen"/>gainſt
+every thing contrar<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to it.</p>
+            <p>Then <hi>Thirdly,</hi> When People are halting between two Opinions; then is the time of giving a
+Testimony, as <hi>Elijah</hi> the Prophet did 1 <hi>Kings</hi> 18. When the Children of Iſrael were halting be<g ref="char:EOLhyphen"/>tween
+two Opinions, he ſhewed himſelf to <hi>Achab,</hi> who has ſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ught his Life many a day before,
+And at this time many People are halting between tw<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Opinions; for ſome will go to the <hi>Curats</hi>
+one day, and to the Tolerated Meetings another, and come to the Field Meetings the Third, then
+this is the time of giving a Teſtimony. For we muſt tell you, not to halt between two Opinions,
+and as <hi>Elijah</hi> ſaid to them. if the Lord be God, follow Him, but if <hi>Beal<g ref="char:punc">▪</g>
+               </hi> then follow Him: So
+we ſay unto you, if ye be for God then avouch it and of you be for Antichriſt, then be for Anti<g ref="char:EOLhyphen"/>christ,
+it is no time now to keep Peace both with CHRIST and Antichriſt, for it is a thing
+imp<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſible.</p>
+            <p>
+               <hi>Fourthly,</hi> When the wicked are very high in Power, as <hi>H<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>man</hi> in the Days of <hi>Mordecal,</hi> then
+is the time of giving a Testimony: as we ſee <hi>Mordee<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> did he would not Reverence him, nor
+reveal his Cap to him, though his Life ſhould have gone for it, and the Life of all the <hi>Jews. So</hi>
+now, is not now the Papiſts high in P<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wer! Hoſea 8 1 <hi>Set ye the Trumpet to thy mouth,</hi>
+and what ſhall he ſound when he hath it there? Even this among theſe things, <hi>Verſe 4. They have
+ſet up Kings but not by me:</hi> They have ſet up a <hi>Popiſh</hi> Tyrant upon the Throne of <hi>Britain,</hi>
+for which the Wrath of God ſhall come on this Land. When Enemies are come to a great height
+<pb n="15" facs="tcp:36152:8"/>
+of Heaven daring Wickedneſs, is it not then a time for Miniſters to preach freely againſt them:
+<hi>To ſet the Trumpet to their mouth and give a certain ſound.</hi> O it was the Duty of all the
+Miniſters in <hi>Scotland</hi> when ever this <hi>Popiſh</hi> Tyrant mounted the Throne, to have ſet the Trumpet
+to their Mouth and ſounded an Alarm; and to have given the People Warning of the great danger
+they were in; thereby they ſhould have told them, they have ſet up a Tyrant yonder upon the
+Throne of <hi>Britain</hi> and <hi>Ireland,</hi> who is ſeeking to Subvert and overturn Religion, and all the Li<g ref="char:EOLhyphen"/>berties
+of Mankind, and he hath now arrogate to himſelf an abſolute Power, whereby he may do
+what he pleaſes. O therefore have a care of your ſelves, have nothing ado with him, make no Bar<g ref="char:EOLhyphen"/>gain
+or Tranſaction with them.</p>
+            <p>
+               <hi>Fifthly,</hi> When the Servants of God are in hazard to be deſtroyed for the Teſtimony,
+and are to be maſſacred and murdered by Cruel bloody Enemies, then is the Seaſon of a
+Teſtimony, and appearing publickly, to tell the People the hazard in orde<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to the prevent<g ref="char:EOLhyphen"/>ing
+of the ſame, as we ſee in the caſe of <hi>Mord<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cai</hi> and Eſther, when the <hi>Jews</hi> were in hazard
+to be maſſacred and murdered. And now are we not all as really in hazard to be maſſacred
+and murdered as ever the <hi>Jews</hi> were? For it is well known, that the <hi>Papists</hi> have as great
+hatred at a<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l <hi>Pre<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>byterians</hi> as they had at the <hi>Jews,</hi> and is not this the time of giving a
+Teſtim<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ny againſt them? Alas! it is ſad to ſee many at peace with <hi>Papiſts,</hi> and like to
+live in Neighbourh<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>od with them But <hi>I</hi> muſt tell you it, there is not a Man this day in
+<hi>Scotland</hi> at Peace with <hi>Papiſts,</hi> but he is a R<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bel to Chriſt: For if he were faithful to
+Chriſt, then he mi<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ht exp<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct to have Satan and all his Inſtruments on his top.</p>
+            <p>Sixthly, The time <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Defecti<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, eſpecially the time of Defections of Miniſters is the
+ſeaſon of giving a publick Teſtimony ſo Truth againſt them, as we ſee in the 13 of
+<hi>Ezek: 2 verſe</hi> He it bidden Propheſie againſt the Prophets, and alſo he is bidden tell them
+they are <hi>but Daubers and that the Wall ſhould <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>all which they had daubed with untempered
+Mortar<g ref="char:punc">▪</g>
+               </hi> and we have alſo this to m<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the S<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a publick Teſtimony for truth, and
+we ſh<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uld look up<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the havin<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, of it as matter of Sorrow and Lamentation. But alas?
+hath not many M<gap reason="illegible" resp="#TECH" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ſters this day g<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne on in ſad ſt<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ps of De<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ection, are they <hi>not daubing with
+<g ref="char:V">Ʋ</g>ntempered Mortar?</hi> This ſh<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uld be told them that they are unfaithful to Chriſt in doing
+ſuch things, and that by their ſo doing, that they bring not only the Wrath of GOD upon
+themſelves but upon the wh<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le Land.</p>
+            <p>
+               <hi>Seventhly,</hi> When the Teſtimony is diſcharged, and Duty interdicted by Law, then is the
+very Seaſon for a Teſtimony for it: As in <hi>Daniel's</hi> time, when Prayers were interdicted by
+Law, he would pr<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap> then as well as ever; though he was a very wiſe man, and no Phariſee, yet
+he not only diſobeyed the wicked Law, but he wou<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d let his Enemies know it, that he did
+not <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bey it by opening his windows. And have we not this alſo to make this the very ſeaſon
+of a Teſtimony for tru<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h and againſt enemies, when the Covenants are not only broken and
+burnt, but declared Criminal to be owned, and this makes it the very time of declaring pub<g ref="char:EOLhyphen"/>lickly
+the Obliga<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion thereof up<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n us, and our Adherence thereunto. Likewiſe is not Field-Meetings
+(which the LORD many times ſignally countenanced) ſtrictly interdicted by a wic<g ref="char:EOLhyphen"/>ked
+Law and diſcha<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ged under pain of Death; and this makes it to be an inavoidable Teſti<g ref="char:EOLhyphen"/>mony
+to keep them up, <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> bloud ſh<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uld be mingled with our Sacr<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fice. Now by theſe
+things may we not ſee when <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Se<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſon is for giving a publick Teſtimony for Truth, and againſt
+the Enemies there<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f. And <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> have all theſe concur<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing in our C<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe, which makes the giving
+of a publick Teſtimonie for Truth, and againſt in Enemies an indiſpenſible Duty: For in our
+Caſe the Object is <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eat. Now <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hen the Prerogatives of CHRIST, <hi>Who is the Prince of the Kings
+of the Earth</hi> is uſu<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ped by this Abſolute Power which the Tyrant upon the Throne (this V<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſe<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Antichriſt) hath blaſphemouſly arrogated to himſelf. When this <hi>Popiſh</hi> Tyrant claim
+<pb n="16" facs="tcp:36152:9"/>
+this abſolute Power to himſelf, and when the Privileges of the Church and Liberties of Mankind
+is encroached upon by this Monſter, and when the Wrath of God is burning againſt the Genera<g ref="char:EOLhyphen"/>tion<g ref="char:punc">▪</g>
+               <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> then to keep ſilence: O who ca<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hold his Peace, <hi>The Lyon hath Roared
+who can but <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</hi> There is none can hold their Tongue that hath any Zeal for the G<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d
+of <hi>Iſrael,</hi> No, he, they cannot.</p>
+            <p>Secondly, The ſecond thing to be conſidered, is, <hi>Saul's</hi> acc<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſting of <hi>Samuel</hi> when they
+were met; <hi>Saul</hi> took the firſt word, for he had an ill Conſcience in this. There is theſe
+two things, <hi>Firſt,</hi> 
+               <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> flattering Complement., juſt like the Flatterers in our day. Secondly,
+A flauoring Profeſſion. Firſt then, There is here a flattering Complement; and <hi>Saul</hi> ſaid un<g ref="char:EOLhyphen"/>to
+him, <hi>Bleſſed be thou of the Lord;</hi> O Terrible! this was a taking of the Lords Name <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> vain</p>
+            <p>Hence we obſerve, That H<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pocritical Enemies of God are ſometimes very free of their
+Complements, and oftimes are very ready to ble<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s as <hi>Saul</hi> was here; but their Bleſſing had
+better been wanting, for they are no<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hing worth. We find this Expreſſion very frequent,
+bleſſed be thou of the Lord: As Firſt, When any body gives them any thing, then they
+will get their Bleſſing for it; as we ſee <hi>Micah<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> Mother did, when he told her, that he had
+the eleven hundred Shekels of Silver, about which ſhe had curſed; and ſhe ſaid, <hi>Bl<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſsed
+be thou of the Lord my Son, Judges</hi> 17, 2. So if any Body will give the Enemies any thing
+they may expect their Bleſſing; but they will not be much the Richer of it when they have
+gotten it. Secondly, When any Body makes any Addreſs to them, or help them to do an
+<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll Turn, then they will get their Bleſſing for i<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: As when the <hi>Ziph<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tes,</hi> theſe Intelligencers
+came and told <hi>Saul</hi> where <hi>David</hi> was and <hi>Saul</hi> ſaid <hi>Bl<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſed be ye of the Lord<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> as if he had
+ſaid, Bleſſed be ye of the Lord, for ye are <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oyal Subjects, ſeing ye c<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me to tell me where
+my Enemie <hi>David</hi> h<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>un<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, <hi>ble<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ed be ye.</hi> Thirdlie, When ſuch an Occaſi<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n is put it into
+the Hands of the Lords People, as that they ma<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> cut them off, and they ſpare them; as
+when <hi>David</hi> ſpared <hi>Sauls</hi> Life, 1 <hi>Samuel 24 16. Bleſſed be thou my Son David, thou ſhalt
+prevail,</hi> ſays Hypocritical <hi>Saul,</hi> And Fourthlie, When they have done an ill Turn, to ſtop
+the mouths of Reprovers, they will ſay, they have not ſinned as the <hi>Papiſts</hi> have d<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne this
+d<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y. Fifthlie, When they have a mind to do an ill Turn to anie, <hi>then they will ſpeak fair,</hi>
+and fall to their Complements as we ſee <hi>Joab</hi> did when he killed <hi>Am<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſa 2 Samuel</hi> 20. 9 It
+is ſaid <hi>Proverbs 26, 25. When they ſpeak fair, believe them not, for there are ſeven Abomina<g ref="char:EOLhyphen"/>tions
+in their heart..</hi>
+            </p>
+            <p>Well, one word by way of Application: There are many in <hi>Scotland,</hi> hath win the Bleſſ<g ref="char:EOLhyphen"/>ing
+of Enemies; well, hold them with it, but it is not much worth when they have got<g ref="char:EOLhyphen"/>ten
+it will do them little good. Many of you by Com<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lying in hearing of <hi>Curats,</hi> taking
+of Oaths and Bonds, and paying the Ceſs, have win <hi>Antichriſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> Bleſſing, and the <hi>Devil's</hi>
+Bleſſing; but when ye have gotten it, you will win nothing by it, not be the Richer b<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it,
+And many of you by imbracing this Tolleration, have given your Helping hand, when
+they are going to ſet up <hi>Dagon,</hi> and when you ly by from giving a Teſtimony againſt it, and
+when there is ſuch ſmooth preaching that will trouble <hi>Antichriſt</hi> much, O but he will be well
+pleaſed with it. Oh! conſider it, Ye who have had any hand in this? for Ye have given
+your Helping hand to ſet up Poper<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, and ſo you have got their Bleſſing.</p>
+            <p>The ſecond thing to be conſidered an <hi>Saul's</hi> accoſting of <hi>Samuel,</hi> 
+               <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, <hi>Saul's</hi> Flau<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing pro<g ref="char:EOLhyphen"/>feſſion,
+<hi>I have performed the Commandment of the LORD,</hi> I ſhall note this from it, That
+Hipocrites are very ready to make a ſhew of their Profeſſion, and to <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>unt of their perform<g ref="char:EOLhyphen"/>ances,
+which is alwiſe the Mark of a Hipocrite. For if Ye would ſpeak to ſome Folk, they
+will tell You that they have done as much and ſuffered as much for the Cauſe as any, and they
+will make a ſhew of their Profeſſion, and boaſt of their Performances oft times for theſe ends.
+<pb n="17" facs="tcp:36152:9"/>
+               <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> To be in Favour with People, that they may eſteem much of them <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erformances:) ſeeking to be advanced; they <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ill tell you, they have done <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Duty and the
+<gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Duty; and O out they have done much for the LORD. O this is <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in His Sight <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+of what he had done, when he ſaid, Come with me, and ſee <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the LORD, 2 <hi>King<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+               <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> So many Hypocrites in <hi>Scotland</hi> have made a great <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in of their profeſſion, and <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+of what they had done, that they might be much eſte<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>med, and in Favour with people: Many
+<gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their Talking of owning the Covenant, a <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to moun<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> themſelves into the <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of Pre<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ment,
+who have helped to But<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> i<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſince; it which the LORD's Sp<gap reason="illegible" resp="#TECH" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> has been grieved. Secondly,
+<gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> did boaſt of their pretended performances, and do make them a ſc<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gg to <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their Knavery
+<gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>; whereas their pre<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>enc<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is, to <gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ke themſelves Rich: I have done bravely, ſays he, This
+<gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> been much in <hi>Scotland:</hi> Many have had a great ſhew of P<gap reason="illegible" resp="#TECH" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ſſion, and <gap reason="illegible" resp="#TECH" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>gged much of
+that they had done. So, many Fo<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ks will <gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ke up a Profeſſion of Re<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>igion, to <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> t<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eir Knavery
+<gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> bu<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> GOD will diſcover ſuch to <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſhame. There will ſome Folks appear for the Lord with
+<gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Sworns; w<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ereas their En<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is to make themſelves Rich: For there <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> many who came out <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+Bridge, th<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t came out for no other End, <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to get a Booty and a Spoil, to make them<g ref="char:EOLhyphen"/>ſelves
+Rich<g ref="char:punc">▪</g> Thirdly, H<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pocrites <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> much o<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their Performances, that they may perſwade
+others to ſin; and all that I can ſay for this End, is, as <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to allu<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e People to that which is ſin<g ref="char:EOLhyphen"/>ful.
+Tu<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> W<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>riſh Woman ſpoken of by <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <g ref="char:punc">▪</g> Prov 4 When ſhe is allu<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing the Young Men
+to commit Fornication with her, ſhe make<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> uſe of this is <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n Argument to perſwade him, 14 Ver.
+<hi>I</hi> have Peace-Off<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rings with me this day; I have performed my Vows. So when they would have
+others to concur in a Conſpiracy with them, they are brave Men then, and they will talk much o<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+their performances. They boaſt of their Performances, that they may make the ſome a Prop
+to le<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n upon: They have nothing to bragg of but their own works, and they build upo<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that, and
+go about to eſtabliſh their own Righ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eouſneſs; and ſome <hi>Folks</hi> lean upon their own principles, great
+profeſſion, and much ſuff<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ring. O <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>our <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Foundation! poor <hi>Saul</hi> thought that what he had
+done would me<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>it Favour from GOD: ſo Hypo<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>i<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es lean on many things (that are not CHRIST) as
+props. Laſtly, Hypocrites may make their great p<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ofeſſion and performances, a ple<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to extenuate
+and defend, and juſtifie their <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>; as <hi>Saul</hi> did here to juſt<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fie and ex<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>enuate his ſin of diſobeying
+the Commandment o<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the LORD, <hi>I</hi> have performed the Commendment of the Lord. So alas!
+fo<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> De<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ections <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat have been in <hi>Scotland,</hi> for which the Heavens may ſtand aſtoniſhed, and all
+N<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>io<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s that have <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>: Yet this is the common plea, and pretext of many Complyers to
+ex<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>enuat their De<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ction: Yet they will ſay, O they have performed the Commandment of the
+LORD, they have done much, and ſuffe<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed much. Ay, if ye will ſpeak to ſome of the greateſt Com<g ref="char:EOLhyphen"/>plyers
+in <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll the Land, that <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ave gone on in all the Compliances in all the Land, bearing of Curates,
+taking of Oaths, <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, and the reſt; and all this to covet their Defection, as <hi>Saul</hi> did
+here. O this is abominable in the LORD's ſight.</p>
+            <p>Now the Third thing <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o be ſpoken to, is, The Prophet's challenging <hi>Saul,</hi> and telling <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>,
+that he was a Lying H<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pocrite; as if the Prophet had ſaid, ye talk much of performing of the Com<g ref="char:EOLhyphen"/>m<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ndment
+of the LORD, but there are many Witneſſes to the contrary: Ye ſay yet have performed
+and obeyed the LORD's Comm<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, have ye done ſo? What means then the ble<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ting of the Sheep,
+and the <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>owing of the Oxen which I hear? Every Rout and every Ble<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap> decla<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es the <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, Whence
+we obſerve, that Defection ſhall be diſcovered by their Effects, as <hi>Math</hi> 9. 14, The Tree is
+known by us <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>: Though we may ſay, we have performed the Com<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ndmen<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of the
+Lord, there are many things that evidence the <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>: For if we will <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the ſins of
+out time, we may ſee many evide<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ces of our Defections, our Ble<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing of the Sheep, and Low<g ref="char:EOLhyphen"/>ing
+of the Oxen <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Witneſs <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Alas! Our De<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ections are great and many, and very <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ai<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>our
+and yet it is ſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d to he<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r ſuch a juſti<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yin<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of our ſelves, as there is, I ſhall only tell you ſome o<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+them that we may think upon and <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for the ſame.</p>
+            <p>As for Example, we have ſwor<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> away our ſelves and all that we have to the Lord in a Solem<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+League and Covenant; and we are co<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>manded <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> which we have received. Let <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+run through ſhortly all the Ar<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>icles thereof, <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſhall ſee we have broken them all.</p>
+            <p>Firſt, According to the firſt Article of the <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, we are ſworn through Grace to endeavour
+in our Places and Stations, the <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wor<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of our Reforme<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Religion in the Church of <hi>Scotland</hi>
+in Doctrine, Worſhip. Diſcipline and Government. Well, have no done this? Ay, ay, Miniſter
+and People will born ſay they have done it: But now I ſay, if we have done it What <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+Blea<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing of the Sheep and Lowing of the Oxen: If we have keepes this A<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>icle of our Covenant
+then how comes it, that the Overtu<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to ſit upon the Throne, and ſubmitted unto
+<pb n="18" facs="tcp:36152:10"/>
+And in Abſolute Power claimed by the Granter of this Toler<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tion, and the Accepters do re<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cognoſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e
+that Abſolute power to be in him, for that Toleration flows from it: The Deſign
+whereof, is, to overturn Religion, and introduce Idolatry; yet how is the ſame not only embraced
+and accepted by the moſt part, but thanked for by all the Presbyterian Miniſterses, their Addreſs
+bears. O can this conſiſt with Presbyterian Principles, and yet the obligation of the Covenant
+dare not be preached in no Tollerated Meeting this day in Scotland<g ref="char:punc">▪</g> And yet it was the Doctrine
+of the Reformers of the Church of Scotland, that Folk ſhould Witneſs for theſe things. But now
+nothing may be preached that may tend to alienate the hearts of the people from Papiſts; and is not
+the Doctrine encroached upon by this Tolleration? when it is preſcribed to Miniſters how they
+ſhould preach: And is not the Diſcipline enc<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ched upon? For none are Tollerated, but thoſe
+whom the Enemies pleaſe, and theſe have no power to exerciſe, Diſcipline: And the Goverument
+is alſo Enc<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oached upon. So that it is the moſt ſhameful thing, and moſt deſtructive thing that
+ever was in the C<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urch before. For there was never ſuch a Bondage is this: <hi>What means the
+ble<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ing of the ſheep, and l<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wing of the <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>xen? O!</hi> may we not ſee how we have broken this Article.</p>
+            <p>Secondly, We are commanded to keep the Lords Land cle<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, we are bou<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d in the ſecond Article
+to extirpate <hi>Popery</hi> and <hi>Prelacy,</hi> &amp;c: Now have we done this? <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, Miniſters and Profeſſors will
+ſay that they have done it, but <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> we have done it, then <hi>what means the bleeting of the deep and lowing of
+the <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>xen?</hi> if we have extirpated <hi>Prelacy;</hi> then what meaneth the Ringing of the Bells to the <hi>Curates</hi>
+preaching, which ſome of you might have heard the day by the way? For if we had been Faithful
+in keeping this Article, there would none of them been in the Kirks this day. If we have endea<g ref="char:EOLhyphen"/>voured
+to extirpate <hi>Pop<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ry:</hi> Then what means the Mumbling o<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the <hi>Maſs</hi> in many places of the
+Land? Do ye not hear tell of <hi>Maſſes?</hi> Do ye not he<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r of a <hi>Popiſh</hi> Tyrant on the Throne, a V<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſel
+of <hi>Antichriſt?</hi> And yet Acknowledged <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s the Vicegere<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t of JEHOVAH? Have you been ex<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>irpating
+thoſe, when you have been Hyring them by paying them theſe things that they Requ<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e of you:
+And what means the imbracing of and Accepting A Tolleration? The Deſign of the grauting of
+which, is, to introduce <hi>Popery:</hi> For was ever <hi>Popery</hi> introduced <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>here once it was Rooted out
+without A Tolleration? And is this the way to extirpate <hi>Popery?</hi> O! no, no, Are there not many
+of you br<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve Coven<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nters indeed, when ye countenance A Tolleration which opens <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Gap to let
+in <hi>Popery?</hi> But ſome of you will ſay, may not <hi>Papiſts</hi> do good? For <hi>Cyrus</hi> was a Heathen, and
+he gave Libertie to the Jews to go Home to their own Land and build the Temple of Jeruſalem;
+there we ſee he did good? O ye who ple<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d thus, have a care what you ſay, and do not Father
+your Ill gotten Get<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s on the Holy ſcripture? Do not wreſt the ſcriptures of Truth? for ye
+have no ground to plead the Lawfulneſs of your practice from this Example of <hi>Cyrus.</hi> This
+Antichriſtian Tolleration now ſo Univerſally Accepted, improved and App<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>uded of, is no way<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+like that Liberty granted by <hi>Cyrus</hi> to the Lords people; it is neither like it in the Gra<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ter, nor in
+the Terms whereupon it is gran<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ted, nor in the Deſign wherefore it was granted, nor in any other
+thing are they like other: For <hi>Cyrus</hi> was propheſied of, long before he was born, by <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Prophet
+<hi>Iſaiah</hi> that he ſhould build the LORD's Houſe, and let go his Captives: He was ex<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>traordinarlie
+<gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> up by the Lord, and called of GOD to give Liberty to His people, and to Eſtabliſh their
+Religion by a Decree: Now this cannot be ſaid of him who grants this Tolleration. Again
+<hi>Cyrus</hi> in his Proclamation gives Libertie to the Lords people, the Jews only, and not to any of
+the Nations as <hi>Ammanites, Philiſtians</hi> or the Reſt; and the thing he granted, is, the Free Exer<g ref="char:EOLhyphen"/>ciſe
+of their Religion in their own Land, <hi>Ezra</hi> 1, <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. And he gives a Noble Teſtimonie to the
+Glorie of GOD: But he does not give any Libertie to the Idolatrous <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to Exerciſe their
+Idolatries. Now this cannot be ſaid of the Tyrant and his Proclamation for this Tolleration: For
+is gives Libertie to <hi>Idolaters</hi> and <hi>Hereticks, Papiſts</hi> and <hi>Quakers;</hi> And he grants Religion among
+<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther things to be Tollerated. But <hi>Cyrus</hi> does not Tollerate the Religion of the Je<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s as a thing to
+<gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſuffered: but by a real Decree, and he gives Teſtimonie to Truth and people of GOD:
+<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut this Tyrant gives no Teſtimonie to the Gorie of GOD, he does not Encourage and Eſtabliſh
+<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eligion as Dutie; but Toller<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s it under the Notion of a Crime, And gives Libertie to it under
+<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Notion of a Fru<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t to be pardoned. Now Religion cannot be Tollerated; but ſhould be
+<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wned, encouraged, and eſtabliſhed as ſuc<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: Likewiſe he gives Libertie to Idol<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ters to Exerciſe
+<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eir Idolatries; and to Hereticks to ſpread Abroad and vent their Heretics; he gives <hi>Papiſts</hi>
+libertie to ſay their <hi>Maſs;</hi> and <hi>Quakers</hi> to vent their <hi>
+                  <gap reason="illegible" resp="#TECH" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ſphemies:</hi> So that now, as it were, the
+<gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the Lord is ſet up beſide <hi>Dagon.</hi> Moreover <hi>Cy<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us</hi> granted the Jews the <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Exerciſe of their
+<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eligion, without any Bonds, Reſtriction or Limitatio<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s: But this cannot be ſaid of this Toller<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>on;
+For it is clogged with Reſtrictions and Limitations: By it Miniſters are Reſtricted in
+<pb n="19" facs="tcp:36152:10"/>
+               <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Doctrine; For they muſt pre<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch nothing that any way may tend to Allenate the Hearts of
+the ſubjects from the Granter of it or his Government; and the place of their preaching is alſo
+Reſtricted, it muſt be in Houſes, and not in the Fields. Likeways the Deſign of <hi>Cyrus</hi> granting
+Libertie to the Jews was good; For he gave them Libertie to go up to <hi>Jeruſalem</hi> to Build the
+Houſe of the LORD: But this is not the Deſign of this Granter, it is to Introduce <hi>Popery;</hi> And
+he intends not to Build the Houſe of the LORD; but to Build <hi>Babylon:</hi> And he will make
+uſe of this Tolleration as a ſcaffolding to keep up that Tower of <hi>Babylon;</hi> And when ever he
+hath the building finiſhed, then he will pull down the ſcaffold again. Then again, ſome plead for
+the Lawfulneſs of Accepting and making uſe of this Libertie from the <hi>Philiſtians</hi> ſending Home the
+Ark. A<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, ay, ſay they, ſeing the <hi>Philistians</hi> ſends us Home the Ark, why may we not Receive it?
+may not the <hi>Philiſtians</hi> Kin<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> home the Ark of the LORD? But they have no ground for
+this neither: For the Ark and <hi>Dagon</hi> cannot ſtand together under one ſconce: For no ſooner
+was the Ark ſet up but <hi>Dagon</hi> went down, But now if ye will look upon the Libertie granted by
+this Tolleration, is the bringing back of the Ark, then the Ark and <hi>Dagon</hi> are ſtanding very peace<g ref="char:EOLhyphen"/>ably
+and pleaſan<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y together under one ſconce; this c<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nnot be, for they cannot ſtand together, and
+now many, both Miniſters and Profeſſors are living peaceably. And in good Neighbourhood with
+<hi>Papiſts</hi> and <hi>Quakers.</hi> O abominable! what is this? O this is ſad, that ever this ſhould have been
+heard of in <hi>Scotland.</hi> Moreover when the Lords of the <hi>Philiſtians</hi> ſent back the Ark, the Kine that
+carried it, went ſtraight to <hi>Bethſ<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>meſh</hi> in the Land of <hi>Iſrael;</hi> but now they are going away to <hi>Ba<g ref="char:EOLhyphen"/>bylon:</hi>
+And if this Liberty granted by this Tolleration be the Ark, then they are carrying it the
+high-gate to <hi>Rome.</hi>
+            </p>
+            <p>Then Thirdly, In the third Article of our Solemn League and Covenant, we are bound to ſtand
+faſt in the Defence, and to maintain the Liberties of the Church, and Privileges of the Kingdom,
+as We are Men and Chriſtians. We have obſerved this, that ſome will plead on this Article of the
+Covenant for owning a <hi>Popiſh</hi> King: But O<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>! is there not an expreſs Condition and Qualification
+there, that we ſhall own no Magiſtrats over us, but in ſubordination to the Law of GOD, and thoſe
+who will give us ſecurity for our Religion and Liberty: And have we not the <hi>Laws</hi> of GOD a<g ref="char:EOLhyphen"/>gainſt
+Tyranny, and alſo the Laws of the Land, which we are bound to maintain every Soul of us;
+and now we do ſubſcribe our ſelves Breakers of it, when we own a <hi>Papiſt.</hi> Now have we performed
+this? Ay, ay, it may be ſome Miniſters and Pro<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſſors will ſay they have; but if we have done
+it, <hi>then what meaneth the ble<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ting of the ſheep, and l<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wing of t<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e oxen?</hi> What meaneth the lowing of the
+Bulls of <hi>Baſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an?</hi> What meant the Wicked walking on every ſide? And what means the Bloo<gap reason="illegible" resp="#TECH" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ſhed?
+All theſe things do Witneſs againſt us, if We have keeped this Article in refuſing to ſet up Ma<g ref="char:EOLhyphen"/>giſtrats
+over us without ſecurity given for our Religion and Liberty: Neither was it Requi<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed of
+him, now when he is ſet up, and hath Arrogate to himſelf an abſolute power; by vertue whereof
+he hath ſtoped and diſabled all our Penal ſtatutes made againſt <hi>Idolaters:</hi> and is intending to <hi>
+                  <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi>
+us of all Privileges and Liberties, as we are Men and Chriſtians. And if we have maintained and Defend<g ref="char:EOLhyphen"/>ed
+out Privileges as we are Men and Chriſtians, then what meaneth the great Oppreſſion both of Bodies
+and Conſciences in the Land? What me<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>neth the Gro<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing of many poor people under heavy Bur<g ref="char:EOLhyphen"/>dens
+and great Bondage. Nay, we are obliged to cut off Idolat<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs: The Idolater ſhould be put to
+Death, according to the Law of GOD; and thoſe Penal ſtatutes in the Old Teſtament are not abro<g ref="char:EOLhyphen"/>gated
+yet, for they are Moral.</p>
+            <p>Fourthly, In the Fourth Article of the ſolemn League and Covenant, we are bound to bring the
+Malignant Enemies of GOD to Condign puniſhment. By the Law of GOD <hi>Idolaters</hi> ſhould die the
+Death; and M<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rderers ſhould Die the Death; that the Land ſhould not be defiled with Blood <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+Well have we done this? ay, ay, Miniſters and Profeſſors will ſay they have done it: But if we have
+performed this, then what meaneth the bleeting of the ſheep, <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> lowing of the Oxen? <hi>If we have
+Endeavoured to bring the Enemies of GOD to condign Puniſhment:</hi> Then what means the ſetting them
+up in places of Power and Truſt, and inſtead of bringing Idolaters and Murderers to puniſhment;
+We have ſet them up Con<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ederate with them, and taken Protection from them, and inſtead of bring<g ref="char:EOLhyphen"/>ing
+them to puniſhment, we have maintained them: For whats your <hi>C<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſs</hi> but a Graſſing of <hi>Anti<g ref="char:EOLhyphen"/>chriſts</hi>
+Bulls to puſh and deſtroy the LORDS people. The <hi>Devil</hi> has ſo many Oxen to Feed, and <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+Requires you to Feed them, that they may <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> down the Work of GOD: and where is there any
+that ſtands up and juſtifies themſelves? O is that a keeping of the Covenant, to maintain its Deſtroy<g ref="char:EOLhyphen"/>ers?
+And is that a bringing of theſe Enemies, Idolaters and Murderers to puniſhment, to Feed them,
+and Confederate with them? O ye have made thereby an unhappy Conjunction.</p>
+            <p>Fifthly, By the fifth Article of our Solemn League and Covenant, we are obliged to ſeek and
+promote Peace and Union. Now can we ſay we have done this? Ay, ay, Miniſters and Profeſſo<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="20" facs="tcp:36152:11"/>
+will ſay they <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ave done it; then what meaneth our Joining in this unhappy and unhallowed Union
+for our bitter Debates and Contentions have been the Fruit of our <hi>Defections:</hi> For our Defection
+hath brought on Diviſion, and Diviſion hath brought on Confuſion; our yet we muſt not Unite in
+this Tolleration; We muſt not Unite in a courſe of Def<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ction from the LORD, for that would
+bring on Wrath and Indignation, and the Judgement of the Lord upon us. But <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>; we have
+United with Antichriſts<g ref="char:punc">▪</g> The Reek of our Chimneys, and the Bleeting of your ſheep, ones Witneſs
+againſt you. I do not envy your Peice in the Way of Righteouſneſs: But this I may ſay, if ye be
+Confeſſors of His Name, and appear for Him as ye ought to do, ye will no<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> get ſitting long<g ref="char:punc">▪</g>
+and I fe<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r there is not a Man that can <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> himſelf of the bre<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch of this Article.</p>
+            <p>Sixthly, <hi>By</hi> the ſixth Article of the Covenant, we are bound to Defend our <hi>Brethren</hi> in their
+purſuing the Ends of the Covenant; and we are oblige<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to take what is <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to one <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s done to
+all: Well, have we not done this? Have we defended but Brethren? Ay, ay, may be ſome Mi<g ref="char:EOLhyphen"/>niſters
+and Profeſſors will ſay they have done it, if we have done it, <hi>What meaneth the Bl<gap reason="illegible" resp="#TECH" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ing of
+the ſheep, and Lowing of the Oxen?</hi> What means your w<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rawing your Help from your brethren
+when in Hazard? What means your not Relieving your brethren (when in your power to do it)
+when drawn to Death by Enemies? Oh! many of you inſtead of <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elping your brethren, you
+have helped the Enemies, Alas! We are Guilty of the Breach of Covenant; We have not endea<g ref="char:EOLhyphen"/>voured
+to perform theſe things which we are bound to perform: For there is not one Article of
+the Solemn League and Covenant, but we have <gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>oken: And we have not endeavoured as we ſhould
+<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ave done in our ſeveral places and Callings to preſerve the Reformed Religion in the Church of
+<hi>Scotland,</hi> in Doctrine, Worſhip, Diſcipline and Government. We have not endeavoured as we ſhould
+have done to ex<gap reason="illegible" resp="#TECH" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>pate <hi>Popery</hi> and <hi>Prelacy,</hi> And the Accepting this Tolleration is a Breach of
+every Article of the Covenant. For how can the<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> extirpate <hi>Popery</hi> and <hi>Prelacy,</hi> ſeing they make
+uſe of this Tolleration that Tollerates then: And ye who go to theſe Tolleration Meetings
+ye are guilty of br<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ach of Covenant, for ye ſtrengthen the Hand<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of <hi>Papiſts</hi> 
+               <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>; ye cannot en<g ref="char:EOLhyphen"/>deavour
+the Ex<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>irp<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tion of <hi>Popery</hi> when ye are at peace with <hi>Papiſts.</hi> And then we are to Repeat
+and turn to the LORD, and Acknowledge our Sins, and engage to our Duty. Well, have we per<g ref="char:EOLhyphen"/>formed
+this, what means then our juſtifieing of our ſe<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ves in main<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aining of this preſen<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> courſe
+For that is inconſiſtent with true Repentance and mourning for ſin, which is clear from <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>7 <hi>Cor.</hi> 7.
+10, 11. If we had mourned for the ſin of forme<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Indulgences, we could not <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> on this
+Tolleration but with Deteſtation; for it has lo<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ded us with many Reproaches <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> may pre<g ref="char:EOLhyphen"/>tend
+to what they will, it is impoſſible that they ſhall be <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ound among the <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of Zion,
+while they continue in that Courſe, which is clear from that forecited place of <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>: For you
+give all that that is Required of you? and by ſo doing you make your <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> guilty of the
+bre<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th of Covenant. O conſider the ſin thereof, and the Judgement that GOD will aſſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>redly
+purſue for ſuch a<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Indignity done unto Hi<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. Remember Si<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, and take Warning: And I Charge
+you to take Warning: For if ever there was a Defection in <hi>Scotland,</hi> this is one: For this
+hundred and Twenty Years, there hath not a Teſtimony been wanting to the Truth; And this
+Tolleration Condemns them all. O will not the ſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a of Hearing the <hi>Curats</hi> make us guilty of
+the ſin of <hi>Prelacy?</hi>
+            </p>
+            <p>And will not the hearing of theſe Tollerated Meetings, make us guilty of the ſin of this Toller<g ref="char:EOLhyphen"/>ation?
+I am no<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> impoſing upon you my own N<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tions; I invite you to nothing; but the Scripture
+<gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>: For if you will ſearch them, and the Antient Records of our C<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urch, the Acts and Con<g ref="char:EOLhyphen"/>ſtitutions
+of her General Aſſemblies, and the Writings of True and Faithfull Champions, you would
+<gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> theſe things not to be my Whimſi<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, but to be the Truth which I tell you; <hi>I</hi> invite you the<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+to ſe<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rch them, and <hi>I</hi> 
+               <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p>The Fourth Thing in the Words <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be ſpoken unto is, <hi>Sou<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> Excuſe and Extenuation of his Sin <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+and there is a Fourfold Excuſe in i<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, I ſhall Obſerve this from it in general; whatever Men as Hypo<g ref="char:EOLhyphen"/>crites
+pretend to in Excuſing their Sin, it will not do the Turn, but it makes it th<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> mo<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>,
+N<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w, the firſt Excuſe <hi>
+                  <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Saul</hi> makes, is <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>his, the<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> have brought them from the <hi>Amal<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>kites,</hi> and this
+doth diſcover his ignor<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce: For i<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> was <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to ſpare them; they ſhould all have been <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <g ref="char:punc">▪</g>
+For the <hi>Amalekites</hi> were Devoted Enemies among o<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her N<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ions. They might have <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> theſe things,
+<gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> they had an expreſs Charge, <hi>Deut. 25. 17, 18, 19 Verſes,</hi> To blot out the Remembrance of <hi>A<g ref="char:EOLhyphen"/>mal<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k</hi>
+from under Heaven: Fo<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they were accurſed Enemies of GOD, and they were Idolaters, and
+they ought not to have been ſp<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>red by tampering with them: No, no, they were all to be cut off,
+M<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, Woman, and Child, and all that belon<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed to them; nothing was to be ſp<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>red. The Children
+of Iſrael was to keep up and to have mantained a War againſt them without any Ceſſ<gap reason="illegible" resp="#TECH" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>on, Peace,
+or T<gap reason="illegible" resp="#TECH" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ſaction with them. And if it was <hi>S<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ule</hi> ſin to ſp<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re <hi>Agag,</hi> and the beſt of the Sheep, and
+<pb n="21" facs="tcp:36152:11"/>
+of Oxen? and if it was Iſraels Intereſt to have ma<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ntained a Wit aga<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nſt <hi>Amalek.</hi> It is as <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+our duty and the duty of all the People of CHRIST to keep up and maintain War without any
+Ceſſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tion, Peace, or Tranſaction againſt <hi>Antichriſt,</hi> 
+               <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd ag<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inſt <hi>Papiſts,</hi> now under the New Teſta<g ref="char:EOLhyphen"/>ment;
+as it was theirs under the Old, For they are great Enemies to Truth, and as great Idolaters
+as they were, it was Iſraels ſin to ſpare <hi>Agag:</hi> But we have not only ſpared the <hi>Papiſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> but
+we have ſet up a <hi>Papist</hi> over us! And if it was <hi>Sauls</hi> ſin, and th<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> peoples ſin to ſp<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re <hi>Agag.</hi> So it
+it would have been greater ſin and a ſhame to have ſet up <hi>Agag</hi> on the Throne of <hi>Iſrael,</hi> So it
+was cut ſin to ſpare <hi>Papiſts;</hi> but more to ſet np a <hi>Papiſt</hi> over us; ſo <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> is our ſin ſurpaſſing theirs.
+Well, remember Sir<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, you have many Oxen, and many Sheep bleeting; but will you Examine how
+you got them? there are many of you that h<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s p<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ace uo<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, you have Houſes and L<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nds; well, got
+you them and your Conſciences keeped both? was you Wiſer than other Folk; or was you Ho<g ref="char:EOLhyphen"/>neſter
+nor others? or was you more Falſe an others have been? ſome will ſay, I got mine
+keeped by hearing the <hi>Curats;</hi> others will ſay, I got mine keeped by countenancing this Tollera<g ref="char:EOLhyphen"/>tion:
+Well, you got it from the <hi>Amalekites</hi> the Enemies of GOD and you may have little
+Peace by reflecting on the Way that you have them, and them you have it from, O conſider <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+ſinfuln<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſs of making Pe<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce with <hi>Papiſts,</hi> theſe Enemies of God, againſt whom we are to maintain
+a War wi<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hout any Ceſſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tion: For CHRIST has proclaimed a War ag<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inſt all ſuch. Look and ye
+will ſee the Declaration of War in the 14 of the Revelation 9 verſe. And any of you that have got
+any thing that you have this way; O ſtrive to get a better <gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ck of them.</p>
+            <p>The ſecond Excuſe which <hi>Saul</hi> makes, is this. That it was the People did it, and not he: (juſt like
+many in out day<g ref="char:punc">▪</g> but he lied like a Traitor; for it was by his Command. Whence we Obſerve, that
+Hypocrites will ay lay the Blame on others: For if he asked at the People, they would<g ref="char:punc">▪</g> haue
+laid the Blame on <hi>Saul.</hi> So in our day, ſpe<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r at the Miniſters who is to Blame for all <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>his Defecti<g ref="char:EOLhyphen"/>on,
+and they will ſay the Blame lyes upon the people; and if we ſpear at the people, they will the ſay
+Flame upon the Miniſters, and ſay, they left them, and would not preach to them in the <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of
+Temptations and Trials; and Miniſters will ſay, that they would h<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve preached, if the people would
+have heard them: But where theſe Excu<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es are, there is little Senſe of ſin, and Humiliation for ſi<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+and little fear of the Judgements of GOD that will purſue ſuch ſits, where every one is laying
+the Charge off themſelves: For Miniſters ſay, they would have keeped their Kirks and preache<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>,
+but the people would not bide with us, and what could we do? For we wanted our Judg<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>g <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+and what could we do? It is not the Miniſters; it is the people. Come to the people and they
+will ſay, the Miniſters went to the Kirks and heard the <hi>Curats,</hi> and we went too; and the <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+counſelled us to take the Bond, and what could we do? But God will lay the blame upon the
+whole Ware, both Miniſters and people.</p>
+            <p>A Third excuſe that <hi>Saul</hi> makes, is, that he ſpared the Sheep and Oxen for a Sacrifice to the
+Lord thy God. Whence we Obſerve, that it is the Mark and Pſea of Hypocrites to juſtifie all
+their Detections from the good end that they have in going about them. We are ready to ju<g ref="char:EOLhyphen"/>ſtifie
+our Actions, tho they be bad, becauſe of the good end we think we have in going about
+them; A good end will not juſtifie a bad Action. If we ſhould ſpear at ſome Miniſters, where<g ref="char:EOLhyphen"/>fore
+bowed ye to the <hi>Supremacy,</hi> wherefore accepted ye the Indulgence? It was <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o get liberty
+to Pre<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch the Goſpel ſay they. Wherefore did ye accept this Toleration? They will Anſwer, it
+was to Preach the Goſpel that we did it, and it was the Salvation o<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Souls that we intended th<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re<g ref="char:EOLhyphen"/>by;
+and is not that a very good end? Poor Man has thy Preaching no other end but the Salva<g ref="char:EOLhyphen"/>tion
+of Souls? Ay, ay, ye think ye have a brave Ple<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of it, but remember, though it be the indiſ<g ref="char:EOLhyphen"/>penſible
+Duty of Miniſters to Preach the Goſpel,; yet to accept of a Liberty to preach the Goſpel
+no way which encroaches upon and wrongs the Prerogatives of the great King and head of the
+Church, is a ſin, though their end be good in accepting the ſame: Where is thy Obedience Man<g ref="char:punc">▪</g>
+For Obedience is better than Sacrifice. Conſtancy and Faithfulneſs in the Matters of God, is called
+for at Miniſters hands. The converſion and edification of Souls is indeed the great end of p<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eac<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ing
+the Goſpel, but that is not all, it is but the one half of the end of it. There is alſo the Glory
+of Chriſt, He muſt and will be Glo<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ified, whether Souls get good by i<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> or no: For the Preach<g ref="char:EOLhyphen"/>ing
+of the Goſpel is not only the Teſtimony of Chriſt, but the Teſtimony for Chriſt. Miniſters
+muſt obey all Chriſts Commands, For what cares the Lord for thy Sacrifice or thee either, that
+thou has gott<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> from the <hi>A<gap reason="illegible" resp="#TECH" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>lekites</hi>
+               <g ref="char:punc">▪</g> For the pre<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ching of the Goſpel by accepting and improv<g ref="char:EOLhyphen"/>ing
+of the Liberty granted by this Toleration, is not a Teſtimony for Chriſt, ſeing it ſo wro<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gs
+and <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> upon the Prerogatives of Chriſt. And it is no leſs than preſumption for any to ex<g ref="char:EOLhyphen"/>pect
+the Lord's preſence at any of the Tolerated Meetings: For they have not a promiſe for i<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="22" facs="tcp:36152:12"/>
+               <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> And now <gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ough we ſuffer
+under their H<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nds for this, we have nothing to ſay, ou<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dore the Righteouſneſs of the LORD
+therein.</p>
+            <p>Thirdly, Another Aggravation of <hi>Saul's</hi> Sin, was a diſobeying a per<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mptor Commiſſion which he
+got to go and deſt<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oy the <hi>Amalekites,</hi> beſide what the Children of <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> go<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in commandment
+from the Lord, to blot out the remembrance of them from under He<gap reason="illegible" resp="#TECH" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>n. <hi>Deut. 25, 17. <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aul</hi>
+got a particular Commi<gap reason="illegible" resp="#TECH" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>on to go and deſtroy them all, and to have nothing <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o do with the<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.
+The Lord hath told us, and we are comm<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nded peremp<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orly not to meddle with his Enemies,
+and to have a <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, not to <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+It is utterly unlawful in matters of Religion to tamper with the E<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>emies of God, and yet for all
+this, we cannot forbear to take and give with them, out Fathers <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> with them when they fell
+upon theſe Reſolu<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ons, and all alongſt <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> our <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ampering with them, <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> deſtroyed us, and we
+con<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inue this day to run ou<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Heads againſt the Boſſes of <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>'s Back<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ers; and on theſe Rocks
+on which the People of God have periſhed formerly.</p>
+            <p>Then in the l<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t p<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ce, the Prophe<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap> convinc<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng him of his ſin: Wherefore <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thou not Obey,
+the Voice of the LOR<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>? And here the Pro<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>het <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> i<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Rebellion. Hence we Note, that all Re<g ref="char:EOLhyphen"/>bellions
+in the World, Rebellion againſt GOD is the greateſt; and of all Rebellions in the World,
+the Rebellion of a King againſt GOD is the greateſt: For it is called here as the ſin of Witchcraft
+The Brutiſhneſs of the Enemies appeared much in uſing this Argument: that Rebellion was is the
+ſin of <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>) againſt ſome of the Priſoners taken at <hi>Pentland;</hi> but ſome of them <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nſwered very
+pertinently, (which was to this purpoſe) that the Rebellio<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> there ſpoken of, was not the Rebellion
+of a People againſt a King; But the Rebellion of a King againſt GOD; and this was <hi>Sauls</hi> ſin. It i<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="23" facs="tcp:36152:12"/>
+true, to Rebell againſt Lawfull M<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>iſtrates that are Ordained of GOD, <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+ſin: but it is no Rebellion to <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>;
+But now what is this Rebellion? There <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſeveral things in Scripture called Re<g ref="char:EOLhyphen"/>bellion
+againſt GOD.</p>
+            <p>I ſhall ment<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on theſe five or ſix of them, Firſt, Murmuring againſt the LORD, is called <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <hi>Numb.</hi> 14, 9. O there hath been much ſed Murmuring in ou<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> days, many of
+us hath murmured in the Wilderneſs. We have <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> againſt him: And it is to be feared
+that many of u<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhall die in Ordinances appointed by Him <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> His word, <hi>Joſh. 22, 19. But <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+not againſt the Lord, nor againſt us, in building you an Altar <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Altar of the Lord our God.</hi>
+Alas! <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> h<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th been much of this Rebellion in <hi>Scotland<g ref="char:punc">▪</g>
+               </hi> ſetting up Worſhip not according to
+his <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. Inve<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ting, preverting, and corrup<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ng the Worſhip of GOD<g ref="char:punc">▪</g> Hence conformity
+with <hi>Prelacy,</hi> 
+               <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Rebellion againſt God: For he never appoint <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Lord his <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Word:
+It is none of his Ordinances, Hence this <hi>Antichriſtian</hi> Toleration is <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> againſt GOD:
+There is no Warrant for it in his Word: The <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of this Toleration (where<g ref="char:EOLhyphen"/>by
+the power which the <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> claims in <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, is Recog<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſ<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>: the Evils in it in <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffect
+juſtified, and not witneſſed ag<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inſt; and the wicked Deſign of its g<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nting ſtrengthened) is Re<g ref="char:EOLhyphen"/>bellion
+againſt GOD; and this Toleration is a <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> againſt GOD: The Cl<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iming an Ab<g ref="char:EOLhyphen"/>ſolute
+power which is the prerogative of God O ſuch a dreadful day <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> coming upon him, and
+all that take part with him! Thirdly, <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> i<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> called Rebelli<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n againſt GOD, <hi>Iſa.</hi> 1, 2,
+O there hath been much <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and Ways in <hi>Scotland:</hi> There is a great Back<g ref="char:EOLhyphen"/>ſliding
+from Pr<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctice, Princ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ples <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> it was always the P<gap reason="illegible" resp="#TECH" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ciple of the Church o<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Scot<g ref="char:EOLhyphen"/>land</hi>
+to oppoſe Tyranny and <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the Doctrine of the Church of <hi>Scotland</hi> to be againſt
+a Toleration: It was their con<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ant Principles neither <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o give Toleration to <hi>Papiſts,</hi> no<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> take <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+from Papiſts. But O there is a great Backſliding from former F<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ithfulneſs, and
+from former Love and Ze<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l. Fourthly: Obſtinary, and <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſing to hearken to the
+Co<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>andments of the Lord, and to turn again unto Him, is <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Rebellion, <hi>Ezek.</hi> 20, <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.
+<hi>Dan.</hi> 9. 5. O there hath been much Rebellion in <hi>Scotlands</hi> Fifthly, Confederacy and Aſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ociation
+with the Enemies of GOD, it called Religion ag<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inſt Him, <hi>Hoſea 7. 14. And they Rebelled a<g ref="char:EOLhyphen"/>gainſt
+ME.</hi> And one of the ways whereby they Rebelled againſt <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> calling to <hi>Eg<gap reason="illegible" resp="#TECH" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>.</hi>
+and going to <hi>Aſſyria,</hi> 
+               <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 11. they were going back to <hi>Egypt</hi> to ge<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> help from them; that
+was in Con<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ede<gap reason="illegible" resp="#TECH" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> and making <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> with them. O there is much of this Rebellion in <hi>Scot<g ref="char:EOLhyphen"/>land,</hi>
+many <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re ſaying a Confeder<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cy with enemies, and are at Peace with them, and this Rebellion
+is the ſin and ſhame, and the Judgment of Backſliding <hi>Scotland,</hi> And w<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll them that have any
+<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cceſſion to this dreadful Confederacy, I ſhall ſay no more at this time. The LORD Himſelf
+give you to conſider what is ſaid, Amen.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
